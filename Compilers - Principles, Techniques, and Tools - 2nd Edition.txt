@@ -1,0 +1,210 @@
+Chapter 1 - Introduction
+  1.1 Language Processors
+    1.1.1 Exercises for Section 1.1
+  1.2 The Structure of a Compiler
+    1.2.1 Lexical Analysis
+    1.2.2 Syntax Analysis
+    1.2.3 Semantic Analysis
+    1.2.4 Intermediate Code Generation
+    1.2.5 Code Optimization
+    1.2.6 Code Generation
+    1.2.7 Symbol-Table Management
+    1.2.8 The Grouping of Phases into Passes
+    1.2.9 Compiler-Construction Tools
+  1.3 The Evolution of Programming Languages
+    1.3.1 The Move to Higher-Level Languages
+    1.3.2 Impacts on Compilers
+    1.3.3 Exercises for Section 1.3
+  1.4 The Science of Building a Compiler
+    1.4.1 Modeling in Compiler Design and Implementation
+    1.4.2 The Science of Code Optimization
+  1.5 Applications of Compiler Technology
+    1.5.1 Implementation of High-Level Programming Languages
+    1.5.2 Optimizations for Computer Architectures
+    1.5.3 Design of New Computer Architectures
+    1.5.4 Program Translations
+    1.5.5 Software Productivity Tools
+  1.6 Programming Language Basics
+    1.6.1 The Static/Dynamic Distinction
+    1.6.2 Environments and States
+    1.6.3 Static Scope and Block Structure
+    1.6.4 Explicit Access Control
+    1.6.5 Dynamic Scope
+    1.6.6 Parameter Passing Mechanisms
+    1.6.7 Aliasing
+    1.6.8 Exercises for Section 1.6
+  1.7 Summary of Chapter 1
+  1.8 References for Chapter 1
+
+Chapter 2 - A Simple Syntax-Directed Translator
+  2.1 Introduction
+  2.2 Syntax Definition
+    2.2.1 Definition of Grammars
+    2.2.2 Derivations
+    2.2.3 Parse Trees
+    2.2.4 Ambiguity
+    2.2.5 Associativity of Operators
+    2.2.6 Precedence of Operators
+    2.2.7 Exercises for Section 2.2
+  2.3 Syntax-Directed Translation
+    2.3.1 Postfix Notation
+    2.3.2 Synthesized Attributes
+    2.3.3 Simple Syntax-Directed Definitions
+    2.3.4 Tree Traversals
+    2.3.5 Translation Schemes
+    2.3.6 Exercises for Section 2.3
+  2.4 Parsing
+    2.4.1 Top-Down Parsing
+    2.4.2 Predictive Parsing
+    2.4.3 When to Use ε-Productions
+    2.4.4 Designing a Predictive Parser
+    2.4.5 Left Recursion
+    2.4.6 Exercises for Section 2.4
+  2.5 A Translator for Simple Expressions
+    2.5.1 Abstract and Concrete Syntax
+    2.5.2 Adapting the Translation Scheme
+    2.5.3 Procedures for the Nonterminals
+    2.5.4 Simplifying the Translator
+    2.5.5 The Complete Program
+  2.6 Lexical Analysis
+    2.6.1 Removal of White Space and Comments
+    2.6.2 Reading Ahead
+    2.6.3 Constants
+    2.6.4 Recognizing Keywords and Identifiers
+    2.6.5 A Lexical Analyzer
+    2.6.6 Exercises for Section 2.6
+  2.7 Symbol Tables
+    2.7.1 Symbol Table Per Scope
+    2.7.2 The Use of Symbol Tables
+  2.8 Intermediate Code Generation
+    2.8.1 Two Kinds of Intermediate Representations
+    2.8.2 Construction of Syntax Trees
+    2.8.3 Static Checking
+    2.8.4 Three-Address Code
+    2.8.5 Exercises for Section 2.8
+  2.9 Summary of Chapter 2
+  
+Chapter 3 - Lexical Analysis
+  3.1 The Role of the Lexical Analyzer
+    3.1.1 Lexical Analysis Versus Parsing
+    3.1.2 Tokens, Patterns, and Lexemes
+    3.1.3 Attributes for Tokens
+    3.1.4 Lexical Errors
+    3.1.5 Exercises for Section 3.1
+  3.2 Input Buffering
+    3.2.1 Buffer Pairs
+    3.2.2 Sentinels
+  3.3 Specification of Tokens
+    3.3.1 Strings and Languages
+    3.3.2 Operations on Languages
+    3.3.3 Regular Expressions
+    3.3.4 Regular Definitions
+    3.3.5 Extensions of Regular Expressions
+    3.3.6 Exercises for Section 3.3
+  3.4 Recognition of Tokens
+    3.4.1 Transition Diagrams
+    3.4.2 Recognition of Reserved Words and Identifiers
+    3.4.3 Completion of the Running Example
+    3.4.4 Architecture of a Transition-Diagram-Based Lexical Analyzer
+    3.4.5 Exercises for Section 3.4
+  3.5 The Lexical-Analyzer Generator Lex
+    3.5.1 Use of Lex
+    3.5.2 Structure of Lex Programs
+    3.5.3 Conflict Resolution in Lex
+    3.5.4 The Lookahead Operator
+    3.5.5 Exercises for Section 3.5
+  3.6 Finite Automata
+    3.6.1 Nondeterministic Finite Automata
+    3.6.2 Transition Tables
+    3.6.3 Acceptance of Input Strings by Automata
+    3.6.4 Deterministic Finite Automata
+    3.6.5 Exercises for Section 3.6
+  3.7 From Regular Expressions to Automata
+    3.7.1 Conversion of an NFA to a DFA
+    3.7.2 Simulation of an NFA
+    3.7.3 Effciency of NFA Simulation
+    3.7.4 Construction of an NFA from a Regular Expression
+    3.7.5 Effciency of String-Processing Algorithms
+    3.7.6 Exercises for Section 3.7
+  3.8 Design of a Lexical-Analyzer Generator
+    3.8.1 The Structure of the Generated Analyzer
+    3.8.2 Pattern Matching Based on NFA's
+    3.8.3 DFA's for Lexical Analyzers
+    3.8.4 Implementing the Lookahead Operator
+    3.8.5 Exercises for Section 3.8
+  3.9 Optimization of DFA-Based Pattern Matchers
+    3.9.1 Important States of an NFA
+    3.9.2 Functions Computed From the Syntax Tree
+    3.9.3 Computing nullable, firstpos, and lastpos
+    3.9.4 Computing followpos
+    3.9.5 Converting a Regular Expression Directly to a DFA
+    3.9.6 Minimizing the Number of States of a DFA
+    3.9.7 State Minimization in Lexical Analyzers
+    3.9.8 Trading Time for Space in DFA Simulation
+    3.9.9 Exercises for Section 3.9
+  3.10 Summary of Chapter 3
+  3.11 References for Chapter 3
+  
+Chapter 4 - Syntax Analysis
+  4.1 Introduction
+    4.1.1 The Role of the Parser
+    4.1.2 Representative Grammars
+    4.1.3 Syntax Error Handling
+    4.1.4 Error-Recovery Strategies
+  4.2 Context-Free Grammars
+    4.2.1 The Formal Definition of a Context-Free Grammar
+    4.2.2 Notational Conventions
+    4.2.3 Derivations
+    4.2.4 Parse Trees and Derivations
+    4.2.5 Ambiguity
+    4.2.6 Verifying the Language Generated by a Grammar
+    4.2.7 Context-Free Grammars Versus Regular Expressions
+    4.2.8 Exercises for Section 4.2
+  4.3 Writing a Grammar
+    4.3.1 Lexical Versus Syntactic Analysis
+    4.3.2 Eliminating Ambiguity
+    4.3.3 Elimination of Left Recursion
+    4.3.4 Left Factoring
+    4.3.5 Non-Context-Free Language Constructs
+    4.3.6 Exercises for Section 4.3
+  4.4 Top-Down Parsing
+    4.4.1 Recursive-Descent Parsing
+    4.4.2 FIRST and FOLLOW
+    4.4.3 LL(1) Grammars
+    4.4.4 Nonrecursive Predictive Parsing
+    4.4.5 Error Recovery in Predictive Parsing
+    4.4.6 Exercises for Section 4.4
+  4.5 Bottom-Up Parsing
+    4.5.1 Reductions
+    4.5.2 Handle Pruning
+    4.5.3 Shift-Reduce Parsing
+    4.5.4 Conflicts During Shift-Reduce Parsing
+    4.5.5 Exercises for Section 4.5
+  4.6 Introduction to LR Parsing: Simple LR
+    4.6.1 Why LR Parsers?
+    4.6.2 Items and the LR(0) Automaton
+    4.6.3 The LR-Parsing Algorithm
+    4.6.4 Constructing SLR-Parsing Tables
+    4.6.5 Viable Prefixes
+    4.6.6 Exercises for Section 4.6
+  4.7 More Powerful LR Parsers
+    4.7.1 Canonical LR(1) Items
+    4.7.2 Constructing LR(1) Sets of Items
+    4.7.3 Canonical LR(1) Parsing Tables
+    4.7.4 Constructing LALR Parsing Tables
+    4.7.5 Effcient Construction of LALR Parsing Tables
+    4.7.6 Compaction of LR Parsing Tables
+    4.7.7 Exercises for Section 4.7
+  4.8 Using Ambiguous Grammars
+    4.8.1 Precedence and Associativity to Resolve Conflicts
+    4.8.2 The \Dangling-Else" Ambiguity
+    4.8.3 Error Recovery in LR Parsing
+    4.8.4 Exercises for Section 4.8
+  4.9 Parser Generators
+    4.9.1 The Parser Generator Yacc
+    4.9.2 Using Yacc with Ambiguous Grammars
+    4.9.3 Creating Yacc Lexical Analyzers with Lex
+    4.9.4 Error Recovery in Yacc
+    4.9.5 Exercises for Section 4.9
+  4.10 Summary of Chapter 4
+  4.11 References for Chapter 4

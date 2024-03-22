@@ -13,3 +13,12 @@ Chapter 1 - Ten Principles of Economics
     1-3b Principle 9: Prices Rise When the Government Prints Too Much Money
     1-3c Principle 10: Society Faces a Short-Run Trade-Off between Inflation and Unemployment
   1-4 Conclusion
+
+Chapter 2 - Thinking Like an Economist
+  2-1 The Economist as Scientist
+    2-1a The Scientific Method: Observation, Theory, and More Observation
+    2-1b The Role of Assumptions
+    2-1c Economic Models
+    2-1d Our First Model: The Circular-Flow Diagram
+    2-1e Our Second Model: The Production Possibilities Frontier
+    2-1f Microeconomics and Macroeconomics

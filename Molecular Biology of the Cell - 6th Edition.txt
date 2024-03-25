@@ -14,3 +14,4 @@ Chapter 1 - Cells and Genomes
   * The Diversity of Genomes and the Tree of Life
     - Cells Can Be Powered by a Variety of Free-Energy Sources
     - Some Cells Fix Nitrogen and Carbon Dioxide for Others
+    - The Greatest Biochemical Diversity Exists Among Prokaryotic Cells

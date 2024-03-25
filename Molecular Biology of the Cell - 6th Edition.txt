@@ -11,3 +11,6 @@ Chapter 1 - Cells and Genomes
     - All Cells Are Enclosed in a Plasma Membrane Across Which Nutrients and Waste Materials Must Pass
     - A Living Cell Can Exist with Fewer Than 500 Genes
     - Summary
+  * The Diversity of Genomes and the Tree of Life
+    - Cells Can Be Powered by a Variety of Free-Energy Sources
+    - Some Cells Fix Nitrogen and Carbon Dioxide for Others

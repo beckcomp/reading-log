@@ -15,3 +15,6 @@ Chapter 1 - Cells and Genomes
     - Cells Can Be Powered by a Variety of Free-Energy Sources
     - Some Cells Fix Nitrogen and Carbon Dioxide for Others
     - The Greatest Biochemical Diversity Exists Among Prokaryotic Cells
+    - The Tree of Life Has Three Primary Branches: Bacteria, Archaea, and Eukaryotes
+    - Some Genes Evolve Rapidly; Others Are Highly Conserved
+    - Most Bacteria and Archaea Have 1000-6000 Genes

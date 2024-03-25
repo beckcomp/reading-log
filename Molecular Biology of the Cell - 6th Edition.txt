@@ -18,3 +18,12 @@ Chapter 1 - Cells and Genomes
     - The Tree of Life Has Three Primary Branches: Bacteria, Archaea, and Eukaryotes
     - Some Genes Evolve Rapidly; Others Are Highly Conserved
     - Most Bacteria and Archaea Have 1000-6000 Genes
+    - New Genes Are Generated from Preexisting Genes
+    - Gene Duplications Give Rise to Families of Related Genes Within a Single Cell
+    - Genes Can Be Transferred Between Organisms, Both in the Laboratory and in Nature
+    - Sex Results in Horizontal Exchange of Genetic Information Within a Species
+    - The Function of a Gene Can Often Be Deduced from Its Sequence
+    - More Than 200 Gene Families Are Common to All Three Primary Branches of the Tree of Life
+    - Mutations Reveal the Functions of Genes
+    - Molecular Biology Began with a Spotlight on E. coli
+    - Summary

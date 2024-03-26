@@ -27,3 +27,18 @@ Chapter 1 - Cells and Genomes
     - Mutations Reveal the Functions of Genes
     - Molecular Biology Began with a Spotlight on E. coli
     - Summary
+  * Genetic Information in Eukaryotes
+    - Eukaryotic Cells May Have Originated as Predators
+    - Modern Eukaryotic Cells Evolved from a Symbiosis+
+    - Eukaryotes Have Hybrid Genomes
+    - Eukaryotic Genomes Are Big
+    - Eukaryotic Genomes Are Rich in Regulatory DNA
+    - The Genome Defines the Program of Multicellular Development
+    - Many Eukaryotes Live as Solitary Cells
+    - A Yeast Serves as a Minimal Model Eukaryote
+    - The Expression Levels of All the Genes of An Organism Can Be Monitored Simultaneously
+    - Arabidopsis Has Been Chosen Out of 300,000 Species As a Model Plant
+    - The World of Animal Cells Is Represented By a Worm, a Fly, a Fish, a Mouse, and a Human
+    - Studies in Drosophila Provide a Key to Vertebrate Development
+    - The Vertebrate Genome Is a Product of Repeated Duplications
+    - The Frog and the Zebrafish Provide Accessible Models for Vertebrate Development

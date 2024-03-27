@@ -42,3 +42,8 @@ Chapter 1 - Cells and Genomes
     - Studies in Drosophila Provide a Key to Vertebrate Development
     - The Vertebrate Genome Is a Product of Repeated Duplications
     - The Frog and the Zebrafish Provide Accessible Models for Vertebrate Development
+    - The Mouse Is the Predominant Mammalian Model Organism
+    - Humans Report on Their Own Peculiarities
+    - We Are All Different in Detail
+    - To Understand Cells and Organisms Will Require Mathematics, Computers, and Quantitative Information
+    - Summary

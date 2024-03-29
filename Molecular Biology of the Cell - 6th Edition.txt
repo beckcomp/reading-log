@@ -58,3 +58,6 @@ Chapter 2 - Cell Chemistry and Bioenergetics
     - The Chemistry of Cells Is Dominated by Macromolecules with Remarkable Properties
     - Noncovalent Bonds Specift Both the Precise Shape of a Macromolecule and Its Binding to Other Molecules
     - Summary
+  * Catalysis and the Use of Energy by Cells
+    - Cell Metabolism Is Organized by Enzymes
+    - Biological Order Is Made Possible by the Release of Heat Energy from Cells

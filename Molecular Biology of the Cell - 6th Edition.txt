@@ -47,3 +47,14 @@ Chapter 1 - Cells and Genomes
     - We Are All Different in Detail
     - To Understand Cells and Organisms Will Require Mathematics, Computers, and Quantitative Information
     - Summary
+    
+Chapter 2 - Cell Chemistry and Bioenergetics
+  * The Chemical Components of a Cell
+    - Water Is Held Together by Hydrogen Bonds
+    - Four Types of Noncovalent Attractions Help Bring Molecules Together in Cells
+    - Some Polar Molecules Form Acids and Bases in Water
+    - A Cell Is Formed from Carbon Compounds
+    - Cells Contain Four Major Families of Small Organic Molecules
+    - The Chemistry of Cells Is Dominated by Macromolecules with Remarkable Properties
+    - Noncovalent Bonds Specift Both the Precise Shape of a Macromolecule and Its Binding to Other Molecules
+    - Summary

@@ -168,4 +168,5 @@ Chapter 6 - The Link Layer and LANs
     6.7.4 Web Client-Serer Interaction: TCP and HTTP
   6.9 Summary
 
-    
+Chapter 7 - Wireless and Mobile Networks
+  7.1 Introduction

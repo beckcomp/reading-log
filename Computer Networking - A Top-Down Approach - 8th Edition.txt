@@ -170,3 +170,5 @@ Chapter 6 - The Link Layer and LANs
 
 Chapter 7 - Wireless and Mobile Networks
   7.1 Introduction
+  7.2 Wireless Links and Network Characteristics
+    7.2.1 CDMA

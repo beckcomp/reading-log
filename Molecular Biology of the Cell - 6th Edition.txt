@@ -61,3 +61,7 @@ Chapter 2 - Cell Chemistry and Bioenergetics
   * Catalysis and the Use of Energy by Cells
     - Cell Metabolism Is Organized by Enzymes
     - Biological Order Is Made Possible by the Release of Heat Energy from Cells
+    - Cells Obtain Energy by the Oxidation of Organic Molecules
+    - Oxidation and Reduction Involve Electron Transfers
+    - Enzymes Lower the Activation-Energy Barriers That Block Chemical Reactions
+    - Enzymes Can Drive Substrate Molecules Along Specific Reaction Pathway

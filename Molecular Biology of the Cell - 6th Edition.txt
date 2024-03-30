@@ -64,4 +64,8 @@ Chapter 2 - Cell Chemistry and Bioenergetics
     - Cells Obtain Energy by the Oxidation of Organic Molecules
     - Oxidation and Reduction Involve Electron Transfers
     - Enzymes Lower the Activation-Energy Barriers That Block Chemical Reactions
-    - Enzymes Can Drive Substrate Molecules Along Specific Reaction Pathway
+    - Enzymes Can Drive Substrate Molecules Along Specific Reaction Pathways
+    - How Enzymes Find Their Substrates: The Enormous Rapidity of Molecular Motions
+    - The Free-Energy Change for a Reaction, ΔG, Determines Whether It Can Occur Spontaneously
+    - The Concentration of Reactants Influences the Free-Energy Change and a Reaction’s Direction
+    - The Standard Free-Energy Change, ΔG°, Makes It Possible to Compare the Energetics of Different Reactions

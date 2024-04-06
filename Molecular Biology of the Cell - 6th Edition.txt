@@ -69,3 +69,8 @@ Chapter 2 - Cell Chemistry and Bioenergetics
     - The Free-Energy Change for a Reaction, ΔG, Determines Whether It Can Occur Spontaneously
     - The Concentration of Reactants Influences the Free-Energy Change and a Reaction’s Direction
     - The Standard Free-Energy Change, ΔG°, Makes It Possible to Compare the Energetics of Different Reactions
+    - The Equilibrium Constant and ΔG° Are Readily Derived from Each Other
+    - The Free-Energy Changes of Coupled Reactions Are Additive
+    - Activated Carrier Molecules Are Essential for Biosynthesis
+    - The Formation of an Activated Carrier Is Coupled to an Energetically Favorable Reaction
+    - ATP Is the Most Widely Used Activated Carrier Molecule

@@ -54,3 +54,11 @@ Chapter 4 - The Market Forces of Supply and Demand
     4-2a The Demand Curve: The Relationship between Price and Quantity Demanded
     4-2b Market Demand versus Individual Demand
     4-2c Shifts in the Demand Curve
+  4-3 Supply
+    4-3a The Supply Curve: The Relationship between Price and Quantity Supplied
+    4-3b Market Supply versus Individual Supply
+    4-3c Shifts in the Supply Curve
+  4-4 Supply and Demand Together
+    4-4a Equilibrium
+    4-4b Three Steps to Analyzing Changes in Equilibrium
+  4-5 Conclusion: How Prices Allocate Resources

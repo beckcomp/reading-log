@@ -62,3 +62,13 @@ Chapter 4 - The Market Forces of Supply and Demand
     4-4a Equilibrium
     4-4b Three Steps to Analyzing Changes in Equilibrium
   4-5 Conclusion: How Prices Allocate Resources
+  
+Chapter 5 - Elasticity and Its Application
+  5-1 The Elasticity of Demand
+    5-1a The Price Elasticity of Demand and Its Determinants
+    5-1b Computing the Price Elasticity of Demand
+    5-1c The Midpoint Method: A Better Way to Calculate Percentage Changes and Elasticities
+    5-1d The Variety of Demand Curves
+    5-1e Total Revenue and the Price Elasticity of Demand
+    5-1f Elasticity and Total Revenue along a Linear Demand Curve
+    5-1g Other Demand Elasticities

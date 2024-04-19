@@ -74,3 +74,5 @@ Chapter 2 - Cell Chemistry and Bioenergetics
     - Activated Carrier Molecules Are Essential for Biosynthesis
     - The Formation of an Activated Carrier Is Coupled to an Energetically Favorable Reaction
     - ATP Is the Most Widely Used Activated Carrier Molecule
+    - Energy Stored in ATP Is Often Harnessed to Join Two Molecules Together
+    - NADH and NADPH Are Important Electron Carriers

@@ -72,3 +72,12 @@ Chapter 5 - Elasticity and Its Application
     5-1e Total Revenue and the Price Elasticity of Demand
     5-1f Elasticity and Total Revenue along a Linear Demand Curve
     5-1g Other Demand Elasticities
+  5-2 The Elasticity of Supply
+    5-2a The Price Elasticity of Supply and Its Determinants
+    5-2b Computing the Price Elasticity of Supply
+    5-2c The Variety of Supply Curves
+  5-3 Three Applications of Supply, Demand, and Elasticity
+    5-3a Can Good News for Farming Be Bad News for Farmers?
+    5-3b Why Did OPEC Fail to Keep the Price of Oil High?
+    5-3c Does Drug Interdiction Increase or Decrease Drug-Related Crime?
+  5-4 Conclusion

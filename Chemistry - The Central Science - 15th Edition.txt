@@ -56,3 +56,24 @@ Chapter 2 - Atoms, Molecules, and Ions
   2.9 Some Simple Organic Compounds
     - Alkanes
     - Some Derivatives of Alkanes
+
+Chapter 3 - Chemical Reactions and Stoichiometry
+  3.1 The Conservation of Mass, Chemical Equations, and Stoichiometry
+    - How to Balance Chemical Equations
+    - A Step-by-Step Example of Balancing a Chemical Equation
+  3.2 Simple Patterns of Chemical Reactivity: Combination, Decomposition, and Combustion
+    - Combination and Decomposition Reactions
+    - Combustion Reactions
+  3.3 Formula Weights and Elemental Compositions of Substances
+    - Formula and Molecular Weights
+    - Elemental Compositions of Substances
+  3.4 Avogadro’s Number and the Mole; Molar Mass
+    - The Mole and Avogadro’s Number
+    - Molar Mass
+    - Converting Between Masses, Moles, and Atoms/Molecules/Ions
+  3.5 Formula Weights and Elemental Compositions of Substances
+    - Molecular Formulas from Empirical Formulas
+    - Combustion Analysis
+  3.6 Reaction Stoichiometry
+  3.7 Limiting Reactants
+    - Theoretical and Percent Yields

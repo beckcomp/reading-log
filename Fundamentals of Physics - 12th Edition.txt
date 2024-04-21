@@ -24,3 +24,7 @@ Chapter 2 - Motion Along a Straight Line
   2.4 Constant Acceleration
     - Constant Acceleration: A Special Case
     - Another Look at Constant Acceleration*
+  2.5 Free-Fall Acceleration
+    - Free-Fall Acceleration
+  2.6 Graphical Integration in Motion Analysis
+    - Graphical Integration in Motion Analysis

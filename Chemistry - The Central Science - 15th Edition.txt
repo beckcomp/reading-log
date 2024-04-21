@@ -8,3 +8,24 @@ Chapter 1 - Introduction: Matter, Energy, and Measurement
     - Elements
     - Compounds
     - Mixtures
+  1.3 Properties of Matter
+    - Physical and Chemical Changes
+    - Separation of Mixtures
+  1.4 The Nature of Energy
+    - Kinetic Energy and Potential Energy
+  1.5 Units of Measurement
+    - SI Units
+    - Length and Mass
+    - Temperature
+    - Derived SI Units
+    - Volume
+    - Density
+    - Units of Energy
+  1.6 Uncertainty in Measurement
+    - Precision and Accuracy
+    - Significant Figures
+    - Significant Figures in Calculations
+  1.7 Dimensional Analysis
+    - Conversion Factors
+    - Using Two or More Conversion Factors
+    - Conversions Involving Volume

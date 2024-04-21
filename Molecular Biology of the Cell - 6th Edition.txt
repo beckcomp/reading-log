@@ -76,3 +76,6 @@ Chapter 2 - Cell Chemistry and Bioenergetics
     - ATP Is the Most Widely Used Activated Carrier Molecule
     - Energy Stored in ATP Is Often Harnessed to Join Two Molecules Together
     - NADH and NADPH Are Important Electron Carriers
+    - There Are Many Other Activated Carrier Molecules in Cells
+    - The Synthesis of Biological Polymers Is Driven by ATP Hydrolysis
+    - Summary

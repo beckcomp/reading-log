@@ -77,3 +77,20 @@ Chapter 3 - Chemical Reactions and Stoichiometry
   3.6 Reaction Stoichiometry
   3.7 Limiting Reactants
     - Theoretical and Percent Yields
+
+Chapter 4 - Reactions in Aqueous Solution
+  4.1 General Properties of Aqueous Solutions
+    - Electrolytes and Nonelectrolytes
+    - How Compounds Dissolve in Water
+    - Strong and Weak Electrolytes
+  4.2 Precipitation Reactions
+    - Solubility Guidelines for Ionic Compounds
+    - Exchange (Metathesis) Reactions
+    - Ionic Equations and Spectator Ions
+  4.3 Acids, Bases, and Neutralization Reactions
+    - Acids
+    - Bases
+    - Strong and Weak Acids and Bases
+    - Identifying Strong and Weak Electrolytes
+    - Neutralization Reactions and Salts
+    - Neutralization Reactions with Gas Formation

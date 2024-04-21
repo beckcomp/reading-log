@@ -38,3 +38,21 @@ Chapter 2 - Atoms, Molecules, and Ions
     - The Nuclear Model of the Atom
   2.3 The Modern View of Atomic Structure
     - Atomic Numbers, Mass Numbers, and Isotopes
+  2.4 Atomic Weights
+    - The Atomic Mass Scale
+    - Atomic Weight
+  2.5 The Periodic Table
+  2.6 Molecules and Molecular Compounds
+    - Molecules and Chemical Formulas
+    - Molecular and Empirical Formulas
+    - Picturing Molecules
+  2.7 Ions and Ionic Compounds
+    - Predicting Ionic Charges
+    - Ionic Compounds
+  2.8 Naming Inorganic Compounds
+    - Names and Formulas of Ionic Compounds
+    - Names and Formulas of Acids
+    - Names and Formulas of Binary Molecular Compounds
+  2.9 Some Simple Organic Compounds
+    - Alkanes
+    - Some Derivatives of Alkanes

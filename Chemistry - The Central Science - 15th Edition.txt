@@ -94,3 +94,15 @@ Chapter 4 - Reactions in Aqueous Solution
     - Identifying Strong and Weak Electrolytes
     - Neutralization Reactions and Salts
     - Neutralization Reactions with Gas Formation
+  4.4 Oxidation-Reduction Reactions
+    - Oxidation and Reduction
+    - Oxidation Numbers
+    - Oxidation of Metals by Acids and Salts
+    - The Activity Series
+  4.5 Concentrations of Solutions
+    - Molarity
+    - Expressing the Concentration of an Electrolyte
+    - Interconverting Molarity, Moles, and Volume
+    - Dilution
+  4.6 Solution Stoichiometry and Chemical Analysis
+    - Titrations

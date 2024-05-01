@@ -81,3 +81,14 @@ Chapter 5 - Elasticity and Its Application
     5-3b Why Did OPEC Fail to Keep the Price of Oil High?
     5-3c Does Drug Interdiction Increase or Decrease Drug-Related Crime?
   5-4 Conclusion
+
+Chapter 6 - Supply, Demand, and Government Policies
+  6-1 Controls on Prices
+    6-1a How Price Ceilings Affect Market Outcomes
+    6-1b How Price Floors Affect Market Outcomes
+    6-1c Evaluating Price Controls
+  6-2 Taxes
+    6-2a How Taxes on Sellers Affect Market Outcomes
+    6-2b How Taxes on Buyers Affect Market Outcomes
+    6-2c Elasticity and Tax Incidence
+  6-3 Conclusion

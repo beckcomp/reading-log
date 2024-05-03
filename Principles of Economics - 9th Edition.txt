@@ -92,3 +92,18 @@ Chapter 6 - Supply, Demand, and Government Policies
     6-2b How Taxes on Buyers Affect Market Outcomes
     6-2c Elasticity and Tax Incidence
   6-3 Conclusion
+  
+Chapter 7 - Consumers, Producers, and the Efficiency of Markets
+  7-1 Consumer Surplus
+    7-1a Willingness to Pay
+    7-1b Using the Demand Curve to Measure Consumer Surplus
+    7-1c How a Lower Price Raises Consumer Surplus
+    7-1d What Does Consumer Surplus Measure?
+  7-2 Producer Surplus
+    7-2a Cost and the Willingness to Sell
+    7-2b Using the Supply Curve to Measure Producer Surplus
+    7-2c How a Higher Price Raises Producer Surplus
+  7-3 Market Efficiency
+    7-3a The Benevolent Social Planner
+    7-3b Evaluating the Market Equilibrium
+  7-4 Conclusion: Market Efficiency and Market Failure

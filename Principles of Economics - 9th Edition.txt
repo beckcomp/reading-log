@@ -107,3 +107,11 @@ Chapter 7 - Consumers, Producers, and the Efficiency of Markets
     7-3a The Benevolent Social Planner
     7-3b Evaluating the Market Equilibrium
   7-4 Conclusion: Market Efficiency and Market Failure
+  
+Chapter 8 - Application: The Costs of Taxation
+  8-1 The Deadweight Loss of Taxation
+    8-1a How a Tax Affects Market Participants
+    8-1b Deadweight Losses and the Gains from Trade
+  8-2 The Determinants of the Deadweight Loss
+  8-3 Deadweight Loss and Tax Revenue as Taxes Vary
+  8-4 Conclusion

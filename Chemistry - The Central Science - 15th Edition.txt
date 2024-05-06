@@ -106,3 +106,16 @@ Chapter 4 - Reactions in Aqueous Solution
     - Dilution
   4.6 Solution Stoichiometry and Chemical Analysis
     - Titrations
+
+Chapter 5 - Thermochemistry
+  5.1 The Nature of Chemical Energy
+  5.2 The First Law of Thermodynamics
+    - System and Surroundings
+    - Internal Energy
+    - Relating ΔE to Heat and Work
+    - Endothermic and Exothermic Processes
+    - State Functions
+  5.3 Enthalpy
+    - Pressure–Volume Work
+    - Enthalpy Change
+  5.4 Enthalpies of Reaction

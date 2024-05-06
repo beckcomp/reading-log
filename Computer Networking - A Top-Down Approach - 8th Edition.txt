@@ -179,3 +179,10 @@ Chapter 7 - Wireless and Mobile Networks
     7.3.4 Mobility in the Same IP Subnet
     7.3.5 Advanced Features in 802.11
     7.3.6 Personal Area Networks: Bluetooth
+  7.4 Cellular Networks: 4G and 5G
+    7.4.1 4G LTE Cellular Networks: Architecture and Elements
+    7.4.2 LTE Protocols Stacks
+    7.4.3 LTE Radio Access Network
+    7.4.4 Additional LTE Functions: Network Attachment and Power Management
+    7.4.5 The Global Cellular Network: A Network of Networks
+    7.4.6 5G Cellular Networks

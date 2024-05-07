@@ -20,3 +20,16 @@ Chapter 2 - The Writing System
     2.5.2 Learning Kanji
     2.5.3 Reading Kanji
     2.5.4 Why Kanji?
+    
+Chapter 3 - Basic Grammar
+  3.1 Basic Grammatical Structures
+  3.2 Expressing State-of-Being
+    3.2.1 Declaring something is so and so using 「だ」
+    3.2.2 Conjugating to the negative state-of-being
+    3.2.3 Conjugating to the past state-of-being
+    3.2.4 Conjugation summary
+  3.3 Introduction to Particles （は、も、が）
+    3.3.1 Defining grammatical functions with particles
+    3.3.2 The 「は」topic particle
+    3.3.3 The 「も」inclusive topic particle
+    3.3.4 The 「が」identifier particle

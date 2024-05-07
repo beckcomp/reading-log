@@ -119,3 +119,16 @@ Chapter 5 - Thermochemistry
     - Pressure–Volume Work
     - Enthalpy Change
   5.4 Enthalpies of Reaction
+  5.5 Calorimetry
+    - Heat Capacity and Specific Heat
+    - Constant-Pressure Calorimetry
+    - Bomb Calorimetry (Constant-Volume Calorimetry)
+  5.6 Hess’s Law
+  5.7 Enthalpies of Formation
+    - Using Enthalpies of Formation to Calculate Enthalpies of Reaction
+  5.8 Bond Enthalpies
+    - Bond Enthalpies and the Enthalpies of Reactions
+  5.9 Foods and Fuels
+    - Foods
+    - Fuels
+    - Other Energy Sources

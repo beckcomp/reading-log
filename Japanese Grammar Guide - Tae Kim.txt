@@ -33,3 +33,12 @@ Chapter 3 - Basic Grammar
     3.3.2 The 「は」topic particle
     3.3.3 The 「も」inclusive topic particle
     3.3.4 The 「が」identifier particle
+  3.4 Adjectives
+    3.4.1 Properties of Adjectives
+    3.4.2 The na-adjective
+    3.4.3 The i-adjective
+    3.4.4 An annoying exception
+  3.5 Verb Basics
+    3.5.1 Role of Verbs
+    3.5.2 Classifying verbs into ru-verbs and u-verbs
+    3.5.3 Appendix: iru/eru u-verbs

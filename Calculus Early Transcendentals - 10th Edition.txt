@@ -1,0 +1,54 @@
+Chapter 0 - Before Calculus
+  0.1 Functions
+    - Definition of a Function
+    - Independent and Dependent Variables
+    - Graphs of Functions
+    - The Vertical Line Test
+    - The Absolute Value Function
+    - Piecewise-Defined Functions
+    - Domain and Range
+    - The Effect of Algebraic Operations on the Domain
+    - Domain and Range in Applied Problems
+    - Issues of Scale and Units
+  0.2 New Functions from Old
+    - Arithmetic Operations on Functions
+    - Composition of Functions
+    - Expressing a Function as a Composition
+    - New Functions from Old
+    - Translations
+    - Reflections
+    - Stretches and Compressions
+    - Symmetry
+    - Even and Odd Functions
+  0.3 Families of Functions
+    - Families of Curves
+    - Power Functions; The Family y = x^n
+    - The Family y=x^-n
+    - Inverse Proportions
+    - Power Functions with Noninteger Exponents
+    - Polynomials
+    - Rational Functions
+    - Algebraic Functions
+    - The Families y=AsinBx and y=AcosBx
+    - The Families y=Asin(Bx-C) and y=Acos(Bx-C)
+  0.4 Inverse Functions; Inverse Trigonometric Functions
+    - Inverse Functions
+    - Changing the Independent Variable
+    - Domain and Range of Inverse Functions
+    - A Method for Finding Inverse Functions
+    - Existence of Inverse Functions
+    - Increasing or Decreasing Functions are Invertible
+    - Graphs of Inverse Functions
+    - Restricting Domains for Invertibility
+    - Inverse Trigonometric Functions
+    - Evaluating Inverse Trigonometric Functions
+    - Identities for Inverse Trigonometric Functions
+  0.5 Exponential and Logarithmic Functions
+    - Irrational Exponents
+    - The Family of Exponential Functions
+    - The Natural Exponential Function
+    - Logarithmic Functions
+    - Solving Equations Involving Exponentials and Logarithms
+    - Change of Base Formula for Logarithms
+    - Logarithmic Scales in Science and Engineering
+    - Exponential and Logarithmic Growth

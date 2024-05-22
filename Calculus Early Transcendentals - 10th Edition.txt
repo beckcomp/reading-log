@@ -52,3 +52,48 @@ Chapter 0 - Before Calculus
     - Change of Base Formula for Logarithms
     - Logarithmic Scales in Science and Engineering
     - Exponential and Logarithmic Growth
+    
+Chapter 1 - Limits and Continuity
+  1.1 Limits (An Intuitive Approach)
+    - Tangent Lines and Limits
+    - Areas and Limits
+    - Decimals and Limits
+    - Limits
+    - Sampling Pitfalls
+    - One-Sided Limits
+    - The Relationship between One-Sided Limits and Two-Sided Limits
+    - Infinite Limits
+    - Vertical Asymptotes
+  1.2 Computing Limits
+    - Some Basic Limits
+    - Limits of Polynomials and Rational Functions as x -> a
+    - Limits Involving Radicals
+    - Limits of Piecewise-Defined Functions
+  1.3 Limits at Infinity; End Behavior of a Function
+    - Limits at Infinity and Horizontal Asymptotes
+    - Limit Laws for Limits at Infinity
+    - Infinite Limits at Infinity
+    - Limits of x^n as x -> ±∞
+    - Limits of Polynomials as x -> ±∞
+    - Limits of Rational Functions as x -> ±∞
+    - A Quick Method for Finding Limits of Rational Functions as x -> +∞ or x -> -∞
+    - Limits Involving Radicals
+    - End Behavior of Trigonometric, Exponential, and Logarithmic Functions
+  1.4 Limits (Discussed More Rigorously)
+    - Motivation for the Definition of a Two-Sided Limit
+    - The Value of δ Is Not Unique
+    - Limits as x -> ±∞
+    - Infinite Limits
+  1.5 Continuity
+    - Definition of Continuity
+    - Continuity in Applications
+    - Continuity on an Interval
+    - Some Properties of Continuous Functions
+    - Continuity of Polynomials and Rational Functions
+    - Continuity of Compositions
+    - The Intermediate-Value Theorem
+    - Approximating Roots Using the Intermediate-Value Theorem
+  1.6 Continuity of Trigonometric, Exponential, and Inverse Functions
+    - Continuity of Trigonometric Functions
+    - Continuity of Inverse Functions
+    - Obtaining Limits by Squeezing 

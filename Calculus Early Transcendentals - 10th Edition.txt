@@ -96,4 +96,34 @@ Chapter 1 - Limits and Continuity
   1.6 Continuity of Trigonometric, Exponential, and Inverse Functions
     - Continuity of Trigonometric Functions
     - Continuity of Inverse Functions
-    - Obtaining Limits by Squeezing 
+    - Obtaining Limits by Squeezing
+
+Chapter 2 - The Derivative
+  2.1 Tangent Lines and Rates of Change
+    - Tangent Lines
+    - Velocity
+    - Slopes and Rates of Change
+    - Rates of Change in Applications
+  2.2 The Derivative Function
+    - Definition of the Derivative Function
+    - Computing Instantaneous Velocity
+    - Differentiability
+    - The Relationship between Differentiability and Continuity
+    - Derivatives at the Endpoints of an Interval
+    - Other Derivativve Notations
+  2.3 Introduction to Techniques of Differentiation
+    - Derivative of a Constant
+    - Derivatives of Power Functions
+    - Derivative of a Constant Times a Function
+    - Derivatives of Sums and Differences
+    - Higher Derivatives
+  2.4 The Product and Quotient Rules
+    - Derivative of a Product
+    - Derivative of a Quotient
+    - Summary of Differentiation Rules
+  2.5 Derivatives of Trigonometric Functions
+  2.6 The Chain Rule
+    - Derivatives of Compositions
+    - An Alternative Version of the Chain Rule
+    - Generalized Derivative Formulas
+    - Differentiating Using Computer Algebra Systems

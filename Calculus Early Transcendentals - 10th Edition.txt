@@ -127,3 +127,32 @@ Chapter 2 - The Derivative
     - An Alternative Version of the Chain Rule
     - Generalized Derivative Formulas
     - Differentiating Using Computer Algebra Systems
+
+Chapter 3 - Topics in Differentiation
+  3.1 Implicit Differentiation
+    - Functions Defined Explicitly and Implicitly
+    - Implicit Differentiation
+    - Differentiability of Functions Defined Implicitly
+  3.2 Derivatives of Logarithmic Functions
+    - Derivatives of Logarithmic Functions
+    - Logarithmic Differentiation
+    - Derivatives of Real Powers of x
+  3.3 Derivatives of Exponential and Inverse Trigonometric Functions
+    - Increasing or Decreasing Functions are One-To-One
+    - Derivatives of Exponential Functions
+    - Derivatives of the Inverse Trigonometric Functions
+  3.4 Related Rates
+    - Differentiating Equations to Relate Rates
+  3.5 Local Linear Approximation; Differentials
+    - Error in Local Linear Approximations
+    - Differentials
+    - Local Linear Approximation from the Differential Point of View
+    - Error Propagation
+    - More Notation; Differential Formulas
+  3.6 L'Hôpital's Rule; Indeterminate Forms
+    - Indeterminate Forms of Type 0/0
+    - Indeterminate Forms of Type ∞/∞
+    - Analyzing the Growth of Exponential Functions Using L'Hôpital's Rule
+    - Indeterminate Forms of Type 0*∞
+    - Indeterminate Forms of Type ∞-∞
+    - Indeterminate Forms of Type 0^0, ∞^0, 1^∞

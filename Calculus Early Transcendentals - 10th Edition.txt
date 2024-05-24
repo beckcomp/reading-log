@@ -156,3 +156,52 @@ Chapter 3 - Topics in Differentiation
     - Indeterminate Forms of Type 0*∞
     - Indeterminate Forms of Type ∞-∞
     - Indeterminate Forms of Type 0^0, ∞^0, 1^∞
+    
+Chapter 4 - The Derivative in Graphing and Applications
+  4.1 Analysis of Functions I: Increase, Decrease, and Concavity
+    - Increasing and Decreasing Functions
+    - Concavity
+    - Inflection Points
+    - Inflection Points in Applications
+    - Logistic Curves
+  4.2 Analysis of Functions II: Relative Extrema; Graphing Polynomials
+    - Relative Maxima and Minima
+    - First Derivative Test
+    - Second Derivative Test
+    - Geometric Implications of Multiplicity
+    - Analysis of Polynomials
+  4.3 Analysis of Functions III: Rational Functions, Cusps, and Vertical Tangents
+    - Properties of Graphs
+    - Graphing Rational Functions
+    - Rational Functions with Oblique or Curvilinear Asymptotes
+    - Graphs with Vertical Tangents and Cusps
+    - Graphing Other Kinds of Functions
+    - Graphing Using Calculus and Technology Together
+  4.4 Absolute Maxima and Minima
+    - Absolute Extrema
+    - The Extreme Value Theorem
+    - Absolute Extrema on Infinite Intervals
+    - Absolute Extrema on Open Intervals
+    - Absolute Extrema of Functions with One Relative Extremum
+  4.5 Applied Maximum and Minimum Problems
+    - Classification of Optimization Problems
+    - Problems Involving Finite Closed Intervals
+    - Problems Involving Intervals that Are Not both Finite and Closed
+    - An Application to Economics
+    - Marginal Analysis
+    - A Basic Principle of Economics
+  4.6 Rectilinear Motion
+    - Review of Terminology
+    - Velocity and Speed
+    - Acceleration
+    - Speeding Up and Slowing Down
+    - Analyzing the Position versus Time Curve
+  4.7 Newton's Method
+    - Newton's Method
+    - Some Difficulties with Newton's Method
+  4.8 Rolle's Theorem; Mean-Value Theorem
+    - Rolle's Theorem
+    - The Mean-Value Theorem
+    - Velocity Interpretation of the Mean-Value Theorem
+    - Consequences of the Mean-Value Theorem
+    - The Constant Difference Theorem

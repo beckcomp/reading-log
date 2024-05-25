@@ -186,3 +186,12 @@ Chapter 7 - Wireless and Mobile Networks
     7.4.4 Additional LTE Functions: Network Attachment and Power Management
     7.4.5 The Global Cellular Network: A Network of Networks
     7.4.6 5G Cellular Networks
+  7.5 Mobility Management: Principles
+    7.5.1 Device Mobility: a Network-layer Perspective
+    7.5.2 Home Networks and Roaming on Visited Networks
+    7.5.3 Direct and Indirect Routing to/from a Mobile Device
+  7.6 Mobility Management in Practice
+    7.6.1 Mobility Management in 4G/5G Networks
+    7.6.2 Mobile IP
+  7.7 Wireless and Mobility: Impact on Higher-Layer Protocols
+  7.8 Summary

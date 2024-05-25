@@ -205,3 +205,43 @@ Chapter 4 - The Derivative in Graphing and Applications
     - Velocity Interpretation of the Mean-Value Theorem
     - Consequences of the Mean-Value Theorem
     - The Constant Difference Theorem
+
+Chapter 5 - Integration
+  5.1 An Overview of the Area Problem
+    - The Area Problem
+    - The Rectangle Method for Finding Areas
+    - The Antiderivative Method for Finding Areas
+    - The Rectangle Method and the Antiderivative Method Compared
+  5.2 The Indefinite Integral
+    - Antiderivatives
+    - The Indefinite Integral
+    - Integration Formulas
+    - Properties of the Indefinite Integral
+    - Integral Curves
+    - Integration from the Viewpoint of Differential Equations
+    - Slope Fields
+  5.3 Integration by Substitution
+    - u-Substitution
+    - Easy to Recognize Substitutions
+    - Less Apparent Substitutions
+    - Integration Using Computer Algebra Systems
+  5.4 The Definition of Area as a Limit; Sigma Notation
+    - Sigma Notation
+    - Changing the Limits of Summation
+    - Properties of Sums
+    - Summation Formulas
+    - A Definition of Area
+    - Numerical Approximations of Area
+    - Net Signed Area
+  5.5 The Definite Integral
+    - Riemann Sums and the Definite Integral
+    - Properties of the Definite Integral
+    - Discontinuities and Integrability
+  5.6 The Fundamental Theorem of Calculus
+    - The Fundamental Theorem of Calculus
+    - The Relationship between Definite and Indefinite Integrals
+    - Dummy Variables
+    - The Mean-Value Theorem for Integrals
+    - Part 2 of the Fundamental Theorem of Calculus
+    - Differentiation and Integration are Inverse Processes
+    - Integrating Rates of Change

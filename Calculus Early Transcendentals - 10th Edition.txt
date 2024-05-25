@@ -37,7 +37,7 @@ Chapter 0 - Before Calculus
     - Domain and Range of Inverse Functions
     - A Method for Finding Inverse Functions
     - Existence of Inverse Functions
-    - Increasing or Decreasing Functions are Invertible
+    - Increasing or Decreasing Functions Are Invertible
     - Graphs of Inverse Functions
     - Restricting Domains for Invertibility
     - Inverse Trigonometric Functions
@@ -138,7 +138,7 @@ Chapter 3 - Topics in Differentiation
     - Logarithmic Differentiation
     - Derivatives of Real Powers of x
   3.3 Derivatives of Exponential and Inverse Trigonometric Functions
-    - Increasing or Decreasing Functions are One-To-One
+    - Increasing or Decreasing Functions Are One-To-One
     - Derivatives of Exponential Functions
     - Derivatives of the Inverse Trigonometric Functions
   3.4 Related Rates
@@ -243,5 +243,28 @@ Chapter 5 - Integration
     - Dummy Variables
     - The Mean-Value Theorem for Integrals
     - Part 2 of the Fundamental Theorem of Calculus
-    - Differentiation and Integration are Inverse Processes
+    - Differentiation and Integration Are Inverse Processes
     - Integrating Rates of Change
+  5.7 Rectilinear Motion Revisited Using Integration
+    - Finding Position and Velocity by Integration
+    - Computing Displacement and Distance Traveled by Integration
+    - Analyzing the Velocity versus Time Curve
+    - Constant Acceleration
+    - Free-Fall Model
+  5.8 Average Value of a Function and Its Applications
+    - Average Velocity Revisited
+    - Average Value of a Continuous Function
+    - Average Value and Average Velocity
+  5.9 Evaluating Definite Integrals by Substitution
+    - Two Methods for Making Substitutions in Definite Integrals
+  5.10 Logarithmic and Other Functions Defined by Integrals
+    - The Connection between Natural Logarithms and Integrals
+    - Algebraic Properties of lnx
+    - Approximating lnx Numerically
+    - Domain, Range, and End Behavior of lnx
+    - Definition of e^x
+    - Irrational Exponents
+    - General Logarithms
+    - Functions Defined by Integrals
+    - Evaluating and Graphing Functions Defined by Integrals
+    - Integrals with Functions as Limits of Integration

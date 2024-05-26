@@ -268,3 +268,51 @@ Chapter 5 - Integration
     - Functions Defined by Integrals
     - Evaluating and Graphing Functions Defined by Integrals
     - Integrals with Functions as Limits of Integration
+
+Chapter 6 - Applications of the Definite Integral in Geometry, Science, and Engineering
+  6.1 Area between Two Curves
+    - A Review of Riemann Sums
+    - Area between y=f(x) and y=g(x)
+    - Reversing the Roles of x and y
+  6.2 Volumes by Slicing; Disks and Washers
+    - Volumes by Slicing
+    - Solids of Revolution
+    - Volumes by Disks Perpendicular to the x-Axis
+    - Volumes by Washers Perpendicular to the x-Axis
+    - Volumes by Disks and Washers Perpendicular to the y-Axis
+    - Other Axes of Revolution
+  6.3 Volumes by Cylindrical Shells
+    - Cylindrical Shells
+    - Variations of the Method of Cylindrical Shells
+  6.4 Length of a Plane Curve
+    - Arc Length
+    - Finding Arc Length by Numerical Methods
+  6.5 Area of a Surface of Revolution
+    - Surface Area
+  6.6 Work
+    - The Role of Work in Physics and Engineering
+    - Work Done by a Constant Force Applied in the Direction of Motion
+    - Work Done by a Variable Force Applied in the Direction of Motion
+    - Calculating Work from Basic Principles
+    - The Work-Energy Relationship
+  6.7 Moments, Centers of Gravity, and Centroids
+    - Density and Mass of a Lamina
+    - Center of Gravity of a Lamina
+    - Other Types of Regions
+    - Theorem of Pappus
+  6.8 Fluid Pressure and Force
+    - What Is a Fluid?
+    - The Concept of Pressure
+    - Fluid Density
+    - Fluid Pressure
+    - Fluid Force on a Vertical Surface
+  6.9 Hyperbolic Functions and Hanging Cables
+    - Definitions of Hyperbolic Functions
+    - Graphs of the Hyperbolic Functions
+    - Hanging Cables and Other Applications
+    - Hyperbolic Identities
+    - Why They Are Called Hyperbolic Functions
+    - Derivative and Integral Formulas
+    - Inverses of Hyperbolic Functions
+    - Logarithmic Forms of Inverse Hyperbolic Functions
+    - Derivatives and Integrals Involving Inverse Hyperbolic Functions

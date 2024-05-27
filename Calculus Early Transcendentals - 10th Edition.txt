@@ -316,3 +316,53 @@ Chapter 6 - Applications of the Definite Integral in Geometry, Science, and Engi
     - Inverses of Hyperbolic Functions
     - Logarithmic Forms of Inverse Hyperbolic Functions
     - Derivatives and Integrals Involving Inverse Hyperbolic Functions
+
+Chapter 7 - Principles of Integral Evaluation
+  7.1 An Overview of Integration Methods
+    - Methods for Approaching Integration Problems
+    - A Review of Familiar Integration Formulas
+  7.2 Integration by Parts
+    - The Product Rule and Integration by Parts
+    - Guidelines for Integration by Parts
+    - Repeated Integration by Parts
+    - A Tabular Method for Repeated Integration by Parts
+    - Integration by Parts for Definite Integrals
+    - Reduction Formulas
+  7.3 Integrating Trigonometric Functions
+    - Integrating Powers of Sine and Cosine
+    - Integrating Products of Sines and Cosines
+    - Integrating Powers of Tangent and Secant
+    - Integrating Products of Tangents and Secants
+    - An Alternative Method for Integrating Powers of Sine, Cosine, Tangent, and Secant
+    - Mercator's Map of the World
+  7.4 Trigonometric Substitutions
+    - The Method of Trigonometric Substitution
+    - Integrals Involving ax^2+bx+c
+  7.5 Integrating Rational Functions by Partial Fractions
+    - Partial Fractions
+    - Finding the Form of a Partial Fraction Decomposition
+    - Linear Factors
+    - Quadratic Factors
+    - Integrating Improper Rational Functions
+    - Concluding Remarks
+  7.6 Using Computer Algebra Systems and Tables of Integrals
+    - Integral Tables
+    - Perfect Matches
+    - Matches Requiring Substitutions
+    - Matches Requiring Reduction Formulas
+    - Special Substitutions
+    - Integrating with Computer Algebra Systems
+    - Computer Algebra Systems Have Limitations
+  7.7 Numerical Integration; Simpson's Rule
+    - A Review of Riemann Sum Approximations
+    - Trapezoidal Approximation
+    - Comparison of the Midpoint and Trapezoidal Approximations
+    - Simpson's Rule
+    - Geometric Interpretation of Simpson's Rule
+    - Error Bounds
+    - A Comparison of the Three Methods
+  7.8 Improper Integrals
+    - Improper Integrals
+    - Integrals over Infinite Intervals
+    - Integrals Whose Integrands Have Infinite Discontinuities
+    - Arc Length and Surface Area Using Improper Integrals

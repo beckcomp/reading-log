@@ -366,3 +366,31 @@ Chapter 7 - Principles of Integral Evaluation
     - Integrals over Infinite Intervals
     - Integrals Whose Integrands Have Infinite Discontinuities
     - Arc Length and Surface Area Using Improper Integrals
+    
+Chapter 8 - Mathematical Modeling with Differential Equations
+  8.1 Modeling with Differential Equations
+    - Terminology
+    - Solutions of Differential Equations
+    - Initial-Value Problems
+    - Uninhibited Population Growth
+    - Inhibited Population Growth; Logistic Models
+    - Pharmacology
+    - Spread of Disease
+    - Newton's Law of Cooling
+    - Vibrations of Springs
+  8.2 Separation of Variables
+    - First-Order Separable Equations
+    - Exponential Growth and Decay Models
+    - Interpreting the Growth and Decay Constants
+    - Doubling Time and Half-Life
+    - Radioactive Decay
+    - Carbon Dating
+  8.3 Slope Fields; Euler's Method
+    - Functions of Two Variables
+    - Slope Fields
+    - Euler's Method
+    - Accuracy of Euler's Method
+  8.4 First-Order Differential Equations and Applications
+    - First-Order Linear Equations
+    - Mixing Problems
+    - A Model of Free-Fall Motion Retarded by Air Resistance

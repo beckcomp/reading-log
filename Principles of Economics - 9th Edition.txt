@@ -115,3 +115,21 @@ Chapter 8 - Application: The Costs of Taxation
   8-2 The Determinants of the Deadweight Loss
   8-3 Deadweight Loss and Tax Revenue as Taxes Vary
   8-4 Conclusion
+
+Chapter 9 - Application: International Trade
+  9-1 The Determinants of Trade
+    9-1a The Equilibrium without Trade
+    9-1b The World Price and Comparative Advantage
+  9-2 The Winners and Losers from Trade
+    9-2a The Gains and Losses of an Exporting Country
+    9-2b The Gains and Losses of an Importing Country
+    9-2c The Effects of a Tariff
+    9-2d The Lessons for Trade Policy
+    9-2e Other Benefits of International Trade
+  9-3 The Arguments for Restricting Trade
+    9-3a The Jobs Argument
+    9-3b The National-Security Argument
+    9-3c The Infant-Industry Argument
+    9-3d The Unfair-Competition Argument
+    9-3e The Protection-as-a-Bargaining-Chip Argument
+  9-4 Conclusion

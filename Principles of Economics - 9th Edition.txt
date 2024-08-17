@@ -133,3 +133,19 @@ Chapter 9 - Application: International Trade
     9-3d The Unfair-Competition Argument
     9-3e The Protection-as-a-Bargaining-Chip Argument
   9-4 Conclusion
+
+Chapter 10 - Externalities
+  10-1 Externalities and Market Inefficiency
+    10-1a Welfare Economics: A Recap
+    10-1b Negative Externalities
+    10-1c Positive Externalities
+  10-2 Public Policies toward Externalities
+    10-2a Command-and-Control Policies: Regulation
+    10-2b Market-Based Policy 1: Corrective Taxes and Subsidies
+    10-2c Market-Based Policy 2: Tradable Pollution Permits
+    10-2d Objections to the Economic Analysis of Pollution
+  10-3 Private Solutions to Externalities
+    10-3a The Types of Private Solutions
+    10-3b The Coase Theorem
+    10-3c Why Private Solutions Do Not Always Work
+  10-4 Conclusion

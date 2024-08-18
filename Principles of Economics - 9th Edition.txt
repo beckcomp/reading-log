@@ -160,3 +160,18 @@ Chapter 11 - Public Goods and Common Resources
     11-3a The Tragedy of the Commons
     11-3b Some Important Common Resources
   11-4 Conclusion: The Importance of Property Rights
+
+Chapter 12 - The Design of the Tax System
+  12-1 An Overview of U.S. Taxation
+    12-1a Taxes Collected by the Federal Government
+    12-1b Taxes Collected by State and Local Governments
+  12-2 Taxes and Efficiency
+    12-2a Deadweight Losses
+    12-2b Administrative Burden
+    12-2c Marginal Tax Rates versus Average Tax Rates
+    12-2d Lump-Sum Taxes
+  12-3 Taxes and Equity
+    12-3a The Benefits Principle
+    12-3b The Ability-to-Pay Principle
+    12-3c Tax Incidence and Tax Equity
+  12-4 Conclusion: The Trade-Off between Equity and Efficiency

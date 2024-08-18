@@ -149,3 +149,14 @@ Chapter 10 - Externalities
     10-3b The Coase Theorem
     10-3c Why Private Solutions Do Not Always Work
   10-4 Conclusion
+
+Chapter 11 - Public Goods and Common Resources
+  11-1 The Different Kinds of Goods
+  11-2 Public Goods
+    11-2a The Free-Rider Problem
+    11-2b Some Important Public Goods
+    11-2c The Difficult Job of Cost–Benefit Analysis
+  11-3 Common Resources
+    11-3a The Tragedy of the Commons
+    11-3b Some Important Common Resources
+    11-4 Conclusion: The Importance of Property Rights

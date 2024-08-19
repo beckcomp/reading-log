@@ -175,3 +175,13 @@ Chapter 12 - The Design of the Tax System
     12-3b The Ability-to-Pay Principle
     12-3c Tax Incidence and Tax Equity
   12-4 Conclusion: The Trade-Off between Equity and Efficiency
+
+Chapter 13 - The Costs of Production
+  13-1 What Are Costs?
+    13-1a Total Revenue, Total Cost, and Profit
+    13-1b Costs as Opportunity Costs
+    13-1c The Cost of Capital as an Opportunity Cost
+    13-1d Economic Profit versus Accounting Profit
+  13-2 Production and Costs
+    13-2a The Production Function
+    13-2b From the Production Function to the Total-Cost Curve

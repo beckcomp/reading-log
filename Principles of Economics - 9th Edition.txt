@@ -194,3 +194,24 @@ Chapter 13 - The Costs of Production
     13-4a The Relationship between Short-Run and Long-Run Average Total Cost
     13-4b Economies and Diseconomies of Scale
   13-5 Conclusion
+
+Chapter 14 - Firms in Competitive Markets
+  14-1 What Is a Competitive Market?
+    14-1a The Meaning of Competition
+    14-1b The Revenue of a Competitive Firm
+  14-2 Profit Maximization and the Competitive Firm's Supply Curve
+    14-2a A Simple Example of Profit Maximization
+    14-2b The Marginal-Cost Curve and the Firm's Supply Decision
+    14-2c The Firm's Short-Run Decision to Shut Down
+    14-2d Spilt Milk and Other Sunk Costs
+    14-2e The Firm's Long-Run Decision to Exit or Enter a Market
+    14-2f Measuring Profit in Our Graph for the Competitive Firm
+    14-2g A Brief Recap
+  14-3 The Supply Curve in a Competitive Market
+    14-3a The Short Run: Market Supply with a Fixed Number of Firms
+    14-3b The Long Run: Market Supply with Entry and Exit
+    14-3c Why Do Competitive Firms Stay in Business If They Make Zero Profit?
+    14-3d A Shift in Demand in the Short Run and Long Run
+    14-3e Why the Long-Run Supply Curve Might Slope Upward
+  14-4 Conclusion: Behind the Supply Curve
+

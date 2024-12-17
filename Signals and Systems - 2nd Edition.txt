@@ -1,0 +1,51 @@
+Chapter 1 - Introduction
+  1.1 What Is a Signal?
+  1.2 What Is a System?
+  1.3 Overview of Specific Systems
+    1.3.1 Communication Systems
+    1.3.2 Control Systems
+    1.3.3 Microelectromechanical Systems
+    1.3.4 Remote Sensing
+    1.3.5 Biomedical Signal Processing
+    1.3.6 Auditory System
+    1.3.7 Analog Versus Digital Signal Processing
+  1.4 Classification of Signals
+  1.5 Basic Operations on Signals
+    1.5.1 Operations Performed on Dependent Variables
+    1.5.2 Operations Performed on the Independent Variable
+    1.5.3 Precedence Rule for Time Shifting and Time Scaling
+  1.6 Elementary Signals
+    1.6.1 Exponential Signals
+    1.6.2 Sinusoidal Signals
+    1.6.3 Relation Between Sinusoidal and Complex Exponential Signals
+    1.6.4 Exponentially Damped Sinusoidal Signals
+    1.6.5 Step Function
+    1.6.6 Impulse Function
+    1.6.7 Derivatives of the Impulse
+    1.6.8 Ramp Function
+  1.7 Systems Viewed as Interconnections of Operations
+  1.8 Properties of Systems
+    1.8.1 Stability
+    1.8.2 Memory
+    1.8.3 Causality
+    1.8.4 Invertibility
+    1.8.5 Time Invariance
+    1.8.6 Linearity
+  1.9 Noise
+    1.9.1 Thermal Noise
+    1.9.2 Other Sources of Electrical Noise
+  1.10 Theme Examples
+    1.10.1 Differentiation and Integration: RC Circuits
+    1.10.2 MEMS Accelerometer
+    1.10.3 Radar Range Measurement
+    1.10.4 Moving-Average Systems
+    1.10.5 Multipath Communication Channels
+    1.10.6 Recursive Discrete-Time Computation
+  1.11 Exploring Concepts with MATLAB
+    1.11.1 Periodic Signals
+    1.11.2 Exponential Signals
+    1.11.3 Sinusoidal Signals
+    1.11.4 Exponentially Damped Sinusoidal Signals
+    1.11.5 Step, Impulse, and Ramp Functions
+    1.11.6 User-Defined Function
+  1.12 Summary

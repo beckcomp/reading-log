@@ -1,0 +1,15 @@
+Chapter 1 - The Foundations of Biochemistry
+  1.1 Cellular Foundations
+    - Cells Are the Structural and Functional Units of All Living Organisms
+    - Cellular Dimensions Are Limited by Oxygen Diffusion
+    - There are Three Distinct Domains of Life
+    - Escherichia coli Is the Most-Studied Prokaryotic Cell
+    - Eukaryotic Cells Have a Variety of Membranous Organelles, Which Can Be Isolated for Study
+    - The Cytoplasm Is Organized by the Cytoskeleton and Is Highly Dynamic
+    - Cells Build Supramolecular Structures
+    - In Vitro Studies May Overlook Important Interactions among Molecules
+    - Summary 1.1 Cellular Foundations
+  1.2 Chemical Foundations
+    - Biomolecules Are Compounds of Carbon wiht a Variety of Functional Groups
+    - Cells Contain a Universal Set of Small Molecules
+    - Macromolecules Are the Major Constituents of Cells

@@ -1,11 +1,14 @@
 Chapter 1 - Overview and Basic Concepts
-  1.1 Approaches to Studying Anatomy
-    1.1.1 Regional Anatomy
-    1.1.2 Systemic Anatomy
-    1.1.3 Clinical Anatomy
-  1.2 Anatomicomedical Terminology
-    1.2.1 Anatomical Position
-    1.2.2 Anatomical Planes
-    1.2.3 Terms of Relationship and Comparison
-    1.2.4 Terms of Laterality
-    1.2.5 Terms of Movement
+  * Approaches to Studying Anatomy
+    - Regional Anatomy
+    - Systemic Anatomy
+    - Clinical Anatomy
+  * Anatomicomedical Terminology
+    - Anatomical Position
+    - Anatomical Planes
+    - Terms of Relationship and Comparison
+    - Terms of Laterality
+    - Terms of Movement
+  * Anatomical Variations
+  * Integumentary System
+    - CLINICAL BOX: Integumentary System

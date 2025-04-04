@@ -12,3 +12,5 @@ Chapter 1 - Overview and Basic Concepts
   * Anatomical Variations
   * Integumentary System
     - CLINICAL BOX: Integumentary System
+  * Fascias, Fascial Compartments, Bursae, and Potential Spaces
+    - CLINICAL BOX: Fascias

@@ -36,3 +36,10 @@ Chapter 1 - Overview and Basic Concepts
     - Cardiac Striated Muscle
     - Smooth Muscle
     - CLINICAL BOX: Cardiac and Smooth Muscle
+  * Cardiovascular System
+    - Vascular Circuits
+    - Blood Vessels
+    - Arteries
+    - Veins
+    - Blood Capillaries
+    - CLINICAL BOX: Cardiovascular System

@@ -101,3 +101,15 @@ Chapter 2 - Back
     - Surface Anatomy of Back Muscles
     - Suboccipital and Deep Neck Muscles
     - CLINICAL BOX: Muscles of Back
+  * Contents of Vertebral Canal
+    - Spinal Cord
+    - Spinal Nerves and Nerve Roots
+    - Spinal Meninges and Cerebrospinal Fluid (CSF)
+      - Spinal Dura Mater
+      - Spinal Arachnoid Mater
+      - Spinal Pia Mater
+      - Subarachnoid Space
+    - Vasculature of Spinal Cord and Spinal Nerve Roots
+      - Arteries of Spinal Cord and Nerve Roots
+      - Veins of Spinal Cord
+    - CLINICAL BOX: Contents of Vertebral Canal

@@ -128,3 +128,20 @@ Chapter 3 - Upper Limb
       - Ossification of bones of Hand
     - Surface Anatomy of Upper Limb Bones
     - CLINICAL BOX: Bones of Upper Limb
+  * Fascia, Efferent Vessels, Cutaneous Innervation, and Myotomes of Upper Limb
+    - Fascia of Upper Limb
+    - Venous Drainage of Upper Limb
+      - Superficial Veins of Upper Limb
+      - Deep Veins of Upper Limb
+    - Lymphatic Drainage of Upper Limb
+    - Cutaneous Innervation of Upper Limb
+    - Motor Innervation (Myotomes) of Upper Limb
+  * Pectoral and Scapular Regions
+    - Anterior Axio-Appendicular Muslces
+    - Posterior Axio-Appendicular and Scapulohumeral Muscles
+      - Superficial Posterior Axio-Appendicular (Extrinsic Shoulder) Muscles
+      - Deep Posterior Axio-Appendicular (Extrinsic Shoulder) Muscles
+      - Scapulohumeral (Intrinsic Shoulder) Muscles
+      - Rotator Cuff Muscles
+    - Surface Anatomy of Pectoral, Scapular, and Deltoid Regions
+    - CLINICAL BOX: Pectoral, Scapular, and Deltoid Regions

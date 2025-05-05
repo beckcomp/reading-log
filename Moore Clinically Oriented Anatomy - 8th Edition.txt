@@ -145,3 +145,9 @@ Chapter 3 - Upper Limb
       - Rotator Cuff Muscles
     - Surface Anatomy of Pectoral, Scapular, and Deltoid Regions
     - CLINICAL BOX: Pectoral, Scapular, and Deltoid Regions
+  * Axilla
+    - Axillary Artery
+    - Axillary Vein
+    - Axillary Lymph Nodes
+    - Brachial Plexus
+    - CLINICAL BOX: Axilla

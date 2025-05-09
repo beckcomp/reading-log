@@ -13,3 +13,18 @@ Chapter 1 - Functional Organization of the Human Body and Control of the "Intern
     - Characteristics of Control Systems
     - Physiological Variability
   * Sumary - Automaticity of the Body
+
+Chapter 74 - Body Temperature Regulation and Fever
+  * Normal Body Temperatures
+  * Body Temperature Is Controlled by Balancing Heat Production and Heat Loss
+    - Heat Production
+    - Heat Loss
+  * Regulation of Body Temperature - Role of the Hypothalamus
+    - Role of the Anterior Hypothalamic - Preoptic Area in Thermostatic Detection of Temperature
+    - Detection of Temperature by Receptors in the Skin and Deep Body Tissues
+    - Posterior Hypothalamus Integrates Central and Peripheral Temperature Sensory Signals
+    - Neuronal Effector Mechanisms that Decrease or Increase Body Temperature
+    - "Set Point" for Temperature Control
+    - Behavioral Control of Body Temperature
+  * Abnormalities of Body Temperature Regulation
+    - Fever

@@ -14,6 +14,19 @@ Chapter 1 - Functional Organization of the Human Body and Control of the "Intern
     - Physiological Variability
   * Sumary - Automaticity of the Body
 
+Chapter 4 - Transport of Substances Through Cell Membranes
+  * The Cell Membrane Is a Lipid Bilayer with Cell Membrane Transport Proteins
+  * Diffusion
+    - Diffusion through the Cell Membrane
+    - Diffusion through Protein Pores and Channels - Selective Permeability and "Gating" of Channels
+    - Facilitated Diffusion Requires Membrane Carrier Proteins
+    - Factors that Affect Net Rate of Diffusion
+    - Osmosis across Selectively Permeable Membranes - "Net Diffusion" of Water
+  * Active Transport of Substances through Membranes
+    - Primary Active Transport
+    - Secondary Active Transport - Co-Transporte and Counter-Transport
+    - Active Transport through Cellular Sheets
+
 Chapter 25 - Regulation of Body Fluid Compartments: Extracellular and Intracellular Fluids; Edema
   * Fluid Intake and Output Are Balanced During Steady-State conditions
     - Daily Intake of Water

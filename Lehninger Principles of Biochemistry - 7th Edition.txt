@@ -13,3 +13,33 @@ Chapter 1 - The Foundations of Biochemistry
     - Biomolecules Are Compounds of Carbon wiht a Variety of Functional Groups
     - Cells Contain a Universal Set of Small Molecules
     - Macromolecules Are the Major Constituents of Cells
+    - Three-Dimensional Structure Is Described by Configuration and Conformation
+    - Interactions between Biomolecules Are Stereospecific
+    - Summary 1.2 Chemical Foundations
+  1.3 Physical Foundations
+    - Living Organisms Exist in a Dynamic Steady State, Never at Equilibrium with Their Surroundings
+    - Organisms Transform Energy and Matter from Their Surroundings
+    - The Flow of Electrons Provides Energy for Organisms
+    - Creating and Maintaining Order Requires Work and Energy
+    - Energy Coupling Links Reactions in Biology
+    - K_eq and ΔG° Are Measures of a Reaction's Tendency to Proceed Spontaneously
+    - Enzymes Promote Sequences of Chemical Reactions
+    - Metabolism Is Regulated to Achieve Balance and Economy
+    - Summary 1.3 Physical Foundations
+  1.4 Genetic Foundations
+    - Genetic Continuity Is Vested in Single DNA Molecules
+    - The Structure of DNA Allows for Its Replication and Repair with Near-Perfect Fidelity
+    - The Linear Sequence in DNA Encodes Proteins with Three-Dimensional Structures
+    - Summary 1.4 Genetic Foundations
+  1.5 Evolutionary Foundations
+    - Changes in the Hereditary Instructions Allow Evolution
+    - Biomolecules First Arose by Chemical Evolution
+    - Chemical Evolution Can Be Simulated in the Laboratory
+    - RNA or Related Precursor May Have Been the First Genes and Catalysts
+    - Biological Evolution Began More Than Three and a Half Billion Years Ago
+    - The First Cell Was Probably a Chemoheterotroph
+    - Eukaryotic Cells Evolved from Prokaryotes in Several Stages
+    - Molecular Anatomy Reveals Evolutionary Relationships
+    - Functional Genomics Shows the Allocations of Genes to Specific Cellular Processes
+    - Genomic Comparisons Will Have Increasing Importance in Human Biology and Medicine
+    - Summary 1.5 Evolutionary Foundations

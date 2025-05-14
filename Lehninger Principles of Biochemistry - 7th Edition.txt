@@ -43,3 +43,31 @@ Chapter 1 - The Foundations of Biochemistry
     - Functional Genomics Shows the Allocations of Genes to Specific Cellular Processes
     - Genomic Comparisons Will Have Increasing Importance in Human Biology and Medicine
     - Summary 1.5 Evolutionary Foundations
+
+Chapter 2 - Water
+  2.1 Weak Interactions in Aqueous Systems
+    - Hydrogen Bonding Gives Water Its Unusual Properties
+    - Water Forms Hydrogen Bonds with Polar Solutes
+    - Water Interacts Electrostatically with Charged Solutes
+    - Entropy Increases as Crystalline Substances Dissolve
+    - Nonpolar Gases Are Poorly Soluble in Water
+    - Nonpolar Compounds Force Energetically Unfavorable Changes in the Structure of Water
+    - van der Waals Interactions Are Weak Interatomic Attractions
+    - Weak Interactions Are Crucial to Macromolecular Structure and Function
+    - Solutes Affect the Colligative Properties of Aqueous Solutions
+    - Summary 2.1 Weak Interactions in Aqueous Systems
+  2.2 Ionization of Water, Weak Acids, and Weak Bases
+    - Pure Water Is Slightly Ionized
+    - The Ionization of Water Is Expressed by an Equilibrium Constant
+    - The pH Scale Designates the H+ and OH- Concentrations
+    - Weak Acids and Bases Have Characteristic Dissociation Constants
+    - Titration Curves Reveal the pKa of Weak Acids
+    - Summary 2.2 Ionization of Water, Weak Acids, and Weak Bases
+  2.3 Buffering against pH Changes in Biological Systems
+    - Buffers Are Mixtures of Weak Acids and Their Conjugate Bases
+    - A Simple Expression Relates pH, pKa, and Buffer Concentration
+    - Weak Acids or Bases Buffer Cells and Tissues against pH Changes
+    - Summary 2.3 Buffering Against pH Changes in Biological Systems
+  2.4 Water as a Reactant
+    - Summary 2.4 Water as a Reactant
+  2.5 The Fitness of the Aqueous Environment for Living Organisms

@@ -409,3 +409,34 @@ Chapter 7 - Lower Limb
       - Lymphatic Drainage of Foot
     - Surface Anatomy of Ankle and Foot Regions
     - CLINICAL BOX: Foot
+  * Joints of Lower Limb
+    - Hip Joint
+      - Articular Surfaces of Hip Joint
+      - Joint Capsule of Hip Joint
+      - Movements of Hip Joint
+      - Blood Supply of Hip Joint
+      - Nerve Supply of Hip Joint
+    - Knee Joint
+      - Articulations, Articular Surfaces, and Stability of Knee Joint
+      - Joint Capsule of Knee Joint
+      - Extracapsular Ligaments of Knee Joint
+      - Intra-Articular Ligaments of Knee Joint
+      - Movements of Knee Joint
+      - Blood Supply of Knee Joint
+      - Innervation of Knee Joint
+      - Bursae around Knee Joint
+    - Tibiofibular Joints
+      - Tibiofibular Joint
+      - Tibiofibular Syndesmosis
+    - Ankle Joint
+      - Articular Surfaces of Ankle Joint
+      - Joint Capsule of Ankle Joint
+      - Ligaments of Ankle Joint
+      - Movements of Ankle Joint
+      - Blood Supply of Ankle Joint
+      - Nerve Supply of Ankle Joint
+    - Foot Joints
+      - Major Ligaments of Foot
+      - Arches of Foot
+      - Surface Anatomy of Joints of Knee, Ankle, and Foot
+    - CLINICAL BOX: Joints of Lower Limb

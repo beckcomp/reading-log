@@ -440,3 +440,19 @@ Chapter 7 - Lower Limb
       - Arches of Foot
       - Surface Anatomy of Joints of Knee, Ankle, and Foot
     - CLINICAL BOX: Joints of Lower Limb
+
+Chapter 8 - Head
+  * Overview of Head
+  * Cranium
+    - Facial Aspect of Cranium
+    - Lateral Aspect of Cranium
+    - Occipital Aspect of Cranium
+    - Superior Aspect of Cranium
+    - External Surface of Cranial Base
+    - Internal Surface of Cranial Base
+      - Anterior Cranial Fossa
+      - Middle Cranaial Fossa
+      - Posterior Cranial Fossa
+    - Walls of Cranial Cavity
+    - Regions of Head
+    - CLINICAL BOX: Cranium

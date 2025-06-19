@@ -28,3 +28,20 @@ Chapter 2 - Cell Cytoplasm
     - Plasma Membrane
     - Signaling Processes
     - Membrane Transport and Vesicular Transport
+
+Chapter 11 - Muscle Tissue
+  * Overview and Classification of Muscle
+  * Skeletal Muscle
+    - Myofibrils and Myofilaments
+    - The Actomyosin Cross-Bridge Cycle
+    - Regulation of Muscle Contraction
+    - Motor Innervation
+    - Sensory Innervation
+    - Development, Repair, Healing, and Renewal
+  * Cardiac Muscle
+    - Structure of Cardiac Muscle
+    - Injury and Repair
+  * Smooth Muscle
+    - Structure of Smooth Muscle
+    - Functional Aspects of Smooth Muscle
+    - Renewal, Repair, and Differentiation

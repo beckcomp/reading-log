@@ -31,6 +31,38 @@ Chapter 2 - Cell Cytoplasm
       - Endocytosis
       - Exocytosis
     - Endosomes
+    - Lysosomes
+      - Autophagy
+    - Proteasome-Mediated Degradation
+    - Rough Endoplasmic Reticulum
+    - Smooth Endoplasmic Reticulum
+    - Golgi Apparatus
+    - Mitochondria
+    - Peroxisomes (Microbodies)
+  * Nonmembranous Organelles
+    - Microtubules
+    - Actin Filaments
+    - Intermediate Filaments
+    - Centrioles and Microtubule-Organizing Centers
+    - Basal Bodies
+  * Inclusions
+  * Cytoplasmic Matrix
+
+Chapter 3 - The Cell Nucleus
+  * Overview of the Nucleus
+  * Nuclear Components
+    - Chromatin
+    - Nucleolus
+    - Nuclear Envelope
+    - Nucleoplasm
+  * Cell Renewal
+
+Chapter 4 - Tissues: Concept and Classification
+  * Overview of Tissues
+  * Epithelium
+  * Connective Tissue
+  * Muscle Tissue
+  * Nerve Tissue
 
 Chapter 11 - Muscle Tissue
   * Overview and Classification of Muscle

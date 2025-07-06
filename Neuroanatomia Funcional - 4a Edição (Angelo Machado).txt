@@ -275,6 +275,59 @@ Capítulo 13 - Estrutura da Medula Espinal
         4.3.2.3 Vias Ascendentes do Funículo Lateral
   5. Correlações Anatomoclínicas
 
+Capítulo 14 - Estrutura do Bulbo
+  1. Considerações sobre a Estrutura do Tronco Encefálico
+  2. Estrutura do Bulbo
+  3. Substância Cinzenta do Bulbo
+    3.1 Substância Cinzenta Homóloga à da Medula (Núcleos de Nervos Cranianos)
+    3.2 Substância Cinzenta Própria do Bulbo
+  4. Substância Branca do Bulbo
+    4.1 Fibras Transversais
+    4.2 Fibras Longitudinais
+      4.2.1 Vias Ascendentes
+      4.2.2 Vias Descendentes
+        4.2.2.1 Tratos do Sistema Lateral da Medula
+        4.2.2.2 Tratos do Sistema Medial da Medula
+        4.2.2.3 Trato Corticonuclear
+        4.2.2.4 Trato Espinal do Nervo Trigêmeo
+        4.2.2.5 Trato Solitário
+      4.2.3 Via de Associação
+  5. Formação Reticular do Bulbo
+  6. Correlações Anatomoclínicas
+
+Capítulo 15 - Estrutura da Ponte
+  1. Parte Ventral ou Base da Ponte
+    1.1 Fibras Longitudinais
+    1.2 Fibras Transversais e Núcleos Pontinos
+  2. Parte Dorsal ou Tegmento da Ponte
+    2.1 Núcleos do Nervo Vestibulococlear
+      2.1.1 Núcleos Cocleares, Corpo Trapezoide, Lemnisco Lateral
+      2.1.2 Núcleos Vestibulares e Suas Conexões
+    2.2 Núcleos dos Nervos Facial e Abducente
+    2.3 Núcleo Salivatório Superior e Núcleo Lacrimal
+    2.4 Núcleos do Nervo Trigêmeo
+    2.5 Fibras Longitudinais do Tegmento da Ponte
+    2.6 Formação Reticular da Ponte
+  3. Correlações Anatomoclínicas
+
+Capítulo 16 - Estrutura do Mesencéfalo
+  1. Teto do Mesencéfalo
+    1.1 Colículo Superior
+    1.2 Colículo Inferior
+    1.3 Área Pré-Tetal
+  2. Base do Pedúnculo Cerebral
+  3. Tegmento do Mesencéfalo
+    3.1 Substância Cinzenta Homóloga à da Medula
+      3.1.1 Núcleo do Nervo Troclear
+      3.1.2 Núcleo do Nervo Oculomotor
+    3.2 Substância Cinzenta Própria do Mesencéfalo
+      3.2.1 Núcleo Rubro
+      3.2.2 Substância Negra
+      3.2.3 Substância Cinzenta Central ou Periaquedutal
+    3.3 Substância Branca
+    3.4 Formação Reticular
+  4. Correlações Anatomoclínicas
+
 Capítulo 29 - Grandes Vias Aferentes
   1. Generalidades
   2. Vias Aferentes que Penetram no Sistema Nervoso Central por Nervos Espinais

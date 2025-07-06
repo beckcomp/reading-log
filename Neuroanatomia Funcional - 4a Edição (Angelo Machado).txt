@@ -351,6 +351,37 @@ Capítulo 17 - Núcleos dos Nervos Cranianos - Alguns Reflexos Integrados no Tro
       2.2.7 Reflexo do Vômito
   3. Correção Anatomoclínica - Importância Clínica dos Reflexos do Tronco Encefálico - Morte Encefálica
 
+Capítulo 18 - Vascularização do Sistema Nervoso Centrla e Barreiras Encefálicas
+ A - Vascularização do Sistema Nervoso Central
+  1. Importância da Vascularização do Sistema Nervoso Central
+  2. Vascularização do Encéfalo
+    2.1 Fluxo Sanguíneo Cerebral e Hipertensão Intracraniana
+      2.1.1 Correlação Anatomoclínica - Traumatismo Cranioencefálico
+    2.2 Vascularização Arterial do Encéfalo
+      2.2.1 Peculiaridades da Vascularização Arterial do Encéfalo
+      2.2.2 Círculo Arterial do Cérebro
+      2.2.3 Artéria Carótida Interna
+      2.2.4 Artérias Vertebral e Basilar
+      2.2.5 Território Cortical das Três Artérias Cerebrais e Acidentes Vasculares Encefálicos
+        2.2.5.1 Artéria Cerebral Anterior - ACA
+        2.2.5.2 Artéria Cerebral Média - ACM
+        2.2.5.3 Artéria Cerebral Posterior - ACP
+      2.2.6 Correlações Anatomoclínicas
+        2.2.6.1 Acidentes Vasculares Encefálicos
+        2.2.6.2 Hemorragia Subaracnóidea e Aneurismas Cerebrais
+    2.3 Vascularização Venosa do Encéfalo
+      2.3.1 Generalidades
+      2.3.2 Sistema Venoso Superficial
+      2.3.3 Sistema Venoso Profundo
+  3. Vascularização da Medula
+ B - Barreiras Encefálicas
+  1. Generalidades
+  2. Localização Anatômica da Barreira Hematoencefálica
+  3. Localização Anatômica da Barreira Hematoliquórica
+  4. Funções das Barreiras
+  5. Fatores de Variação da Permeabilidade da Barreira Hematoencefálica
+  6. Órgãos Circunventriculares
+
 Capítulo 29 - Grandes Vias Aferentes
   1. Generalidades
   2. Vias Aferentes que Penetram no Sistema Nervoso Central por Nervos Espinais

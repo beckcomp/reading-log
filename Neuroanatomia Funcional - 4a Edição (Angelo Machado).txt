@@ -328,6 +328,29 @@ Capítulo 16 - Estrutura do Mesencéfalo
     3.4 Formação Reticular
   4. Correlações Anatomoclínicas
 
+Capítulo 17 - Núcleos dos Nervos Cranianos - Alguns Reflexos Integrados no Tronco Encefálico
+  1. Sistematização dos Núcleos dos Nervos Cranianos em Colunas
+    1.1 Coluna Eferente Somática
+    1.2 Coluna Eferente Visceral Geral
+    1.3 Coluna Eferente Visceral Especial
+    1.4 Coluna Aferente Somática Geral
+    1.5 Coluna Aferente Somática Especial
+    1.6 Coluna Aferente Visceral
+  2. Conexões dos Núcleos dos Nervos Cranianos
+    2.1 Conexões Suprassegmentares
+    2.2 Conexões Reflexas
+      2.2.1 Reflexo Mandibular ou Mentoniano
+      2.2.2 Reflexo Corneano ou Corneopalpebral
+      2.2.3 Reflexo Lacrimal
+      2.2.4 Reflexo de Piscar
+      2.2.5 Reflexo de Movimentação dos Olhos por Estímulos Vestibulares (Reflexos Oculocefálico e Oculovestibular) - Nistagmo
+      2.2.6 Reflexos Pupilares
+        2.2.6.1 Reflexo Fotomotor Direto
+        2.2.6.2 Reflexo Consensual
+        2.2.6.3 Reflexo de Convergência
+      2.2.7 Reflexo do Vômito
+  3. Correção Anatomoclínica - Importância Clínica dos Reflexos do Tronco Encefálico - Morte Encefálica
+
 Capítulo 29 - Grandes Vias Aferentes
   1. Generalidades
   2. Vias Aferentes que Penetram no Sistema Nervoso Central por Nervos Espinais

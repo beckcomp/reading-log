@@ -418,6 +418,42 @@ Capítulo 19 - Considerações Anatomoclínicas sobre a Medula e o Tronco Encef�
     6.3 Síndrome de Parinaud
   7. Semiologia das Oftalmoplegias
 
+Capítulo 26 - Anatomia Funcional do Córtex Cerebral
+  1. Introdução
+  2. Áreas Sensitivas
+    2.1 Áreas Corticais Relacionadas com a Sensibilidade Somática
+      2.1.1 Área Somestésica Primária (S1)
+      2.1.2 Área Somestésica Secundária (S2)
+    2.2 Áreas Corticais Relacionadas com a Visão
+      2.2.1 Área Visual Primária (V1)
+      2.2.2 Áreas Visuais Secundárias (V2)
+    2.3 Áreas Corticais Relacionadas com a Audição
+      2.3.1 Área Auditiva Primária (A1)
+      2.3.2 Área Auditiva Secundária (A2)
+    2.4 Área Vestibular
+    2.5 Área Olfatória
+    2.6 Área Gustativa
+      2.6.1 Área Gustativa Primária
+      2.6.2 Área Gustativa Secundária
+  3. Áreas Corticais Relacionadas com a Motricidade
+    3.1 Área Motora Primária (M1)
+    3.2 Áreas Motoras Secundárias
+      3.2.1 Área Pré-Motora
+      3.2.2 Área Motora Suplementar
+    3.3 Planejamento Motor
+    3.4 Sistema de Neurônios-Espelho
+  4. Áreas de Associação Terciárias
+    4.1 Área Pré-Frontal
+      4.1.1 Área Pré-Frontal Dorsolateral
+      4.1.2 Área Pré-Frontal Ventromedial ou Orbitofrontal
+    4.2 Correlação Anatomoclínica
+      4.2.1 Autismo Infantil
+    4.3 Área Parietal Posterior
+    4.4 Córtex Insular
+    4.5 Áreas Límbicas
+  5. Áreas Relacionadas com a Linguagem - Afasias
+  6. Assimetria das Funções Corticais
+
 Capítulo 29 - Grandes Vias Aferentes
   1. Generalidades
   2. Vias Aferentes que Penetram no Sistema Nervoso Central por Nervos Espinais

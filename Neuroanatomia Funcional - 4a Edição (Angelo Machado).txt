@@ -511,3 +511,25 @@ Capítulo 29 - Grandes Vias Aferentes
     2.3 Via de Propriocepção Consciente, Tato Epicrítico e Sensibilidade Vibratória
     2.4 Via de Propriocepção Inconsciente
     2.5 Vias da Sensibilidade Visceral 
+  3. Vias Aferentes que Penetram no Sistema Nervoso Central por Nervos Cranianos
+    3.1 Vias Trigeminais
+      3.1.1 Via Trigeminal Exteroceptiva
+      3.1.2 Via Trigeminal Proprioceptiva
+    3.2 Via Gustativa
+      3.2.1 Receptores Gustativos
+      3.2.2 Via Gustativa
+    3.3 Via Olfatória
+      3.3.1 Receptores Olfatórios
+      3.3.2 Via Olfatória
+    3.4 Via Auditiva
+      3.4.1 Receptores Auditivos
+      3.4.2 Vias Auditivas
+    3.5 Vias Vestibulares Conscientes e Inconscientes
+      3.5.1 Receptores Vesitbulares
+      3.5.2 Vias Vestibulares
+    3.6 Via Óptica
+      3.6.1 Estrutura da Retina
+      3.6.2 Trajeto das Fibras nas Vias Ópticas
+  4. Controle da Transmissão das Informações Sensoriais
+    4.1 Fisiopatologia da Dor
+      4.1.1 Regulação da Dor e das Vias da Analgesia

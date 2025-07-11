@@ -533,3 +533,20 @@ Capítulo 29 - Grandes Vias Aferentes
   4. Controle da Transmissão das Informações Sensoriais
     4.1 Fisiopatologia da Dor
       4.1.1 Regulação da Dor e das Vias da Analgesia
+
+Capítulo 30 - Grandes Vias Eferentes
+  1. Generalidades
+  2. Vias Eferentes Viscerais do Sistema Nervoso Autônomo
+  3. Vias Eferentes Somáticas
+    3.1 Tratos Corticospinais
+    3.2 Trato Corticonuclear
+      3.2.1 Trato Rubrospinal
+      3.2.2 Trato Tetospinal
+      3.2.3 Tratos Vestibulospinais
+      3.2.4 Tratos Reticulospinais
+    3.3 Visão Conjunta das Vias Motoras Somáticas
+    3.4 Organização do Movimento Voluntário
+  4. Movimentos Oculares
+  5. Locomoção
+  6. Correlações Anatomoclínicas - Lesões das Vias Motoras
+    6.1 Tratamento da Espasticidade

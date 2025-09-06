@@ -1,0 +1,14 @@
+Chapter 2 - Discrete-Time Signals and Systems
+  2.0 Introduction
+  2.1 Discrete-Time Signals
+  2.2 Discrete-Time Systems
+    2.2.1 Memoryless Systems
+    2.2.2 Linear Systems
+    2.2.3 Time-INvariant Systems
+    2.2.4 Causality
+    2.2.5 Stability
+
+Chapter 4 - Sampling of Continuous-Time Signals
+  4.0 Introduction
+  4.1 Periodic Sampling
+  4.2 Frequency-Domain Representation of Sampling

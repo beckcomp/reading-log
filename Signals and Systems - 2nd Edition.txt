@@ -49,3 +49,15 @@ Chapter 1 - Introduction
     1.11.5 Step, Impulse, and Ramp Functions
     1.11.6 User-Defined Function
   1.12 Summary
+
+Chapter 2 - Time-Domain Representations of Linear Time-Invariant Systems
+  2.1 Introduction
+  2.2 The Convolution Sum
+  2.3 Convolution Sum Evaluation Procedure
+
+Chapter 4 - Applications of Fourier Representations to Mixed Signal Classes
+  4.1 Introduction
+  4.2 Fourier Transform Representations of Periodic Signals
+    4.2.1 Relating the FT to the FS
+    4.2.2 Relating the DTFT to the DTFS
+  4.3 Convolution and Multiplication with Mixtures of Periodic and Nonperiodic Signals

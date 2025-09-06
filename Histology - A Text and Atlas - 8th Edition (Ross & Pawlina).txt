@@ -75,6 +75,11 @@ Chapter 4 - Tissues: Concept and Classification
   * Connective Tissue
   * Muscle Tissue
   * Nerve Tissue
+  * Histogenesis of Tissues
+    - Ectodermal Derivatives
+    - Mesodermal Derivatives
+    - Endodermal Derivatives
+  * Identifying Tissues
 
 Chapter 11 - Muscle Tissue
   * Overview and Classification of Muscle

@@ -56,6 +56,18 @@ Chapter 3 - The Cell Nucleus
     - Nuclear Envelope
     - Nucleoplasm
   * Cell Renewal
+  * Cell Cycle
+    - Phases and Checkpoints Within the Cell Cycle
+    - Regulation of the Cell Cycle
+    - Mitosis
+    - Meiosis
+      - Prophase I
+      - Metaphase I
+      - Anaphase I and Telophase I
+      - Meiosis II
+  * Cell Death
+    - Apoptosis
+    - Other Forms of Programmed Cell Death
 
 Chapter 4 - Tissues: Concept and Classification
   * Overview of Tissues

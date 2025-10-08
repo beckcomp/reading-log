@@ -1,0 +1,21 @@
+Chapter 2 - Combinational Logic Design
+  2.6 X's and Z's, Oh My
+    2.6.1 Illegal Value: X
+    2.6.2 Floating Value: Z
+  2.8 Combinational Building Blocks
+    2.8.1 Multiplexers
+    2.8.2 Decoders
+  2.8 Timing
+    2.9.1 Propagation and Contamination Delay
+
+Chapter 3 - Sequential Logic Design
+  3.1 Introduction
+  3.2 Latches and Flip-Flops
+    3.2.1 SR Latch
+    3.2.2 D Latch
+    3.2.3 D Flip-Flop
+    3.2.4 Register
+    3.2.5 Enabled Flip-Flop
+    3.2.6 Resettable Flip-Flop
+    3.2.7 Transistor-Level Latch and Flip-Flop Designs*
+    3.2.8 Putting It All Together

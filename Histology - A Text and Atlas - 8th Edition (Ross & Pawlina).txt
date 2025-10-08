@@ -81,6 +81,15 @@ Chapter 4 - Tissues: Concept and Classification
     - Endodermal Derivatives
   * Identifying Tissues
 
+Chapter 5 - Epithelial Tissue
+  * Overview of Epithelial Structure and Function
+  * Classification of Epithelium
+  * Cell Polarity
+  * The Apical Domain and Its Modifications
+    - Microvilli
+    - Stereocilia
+    - Cilia
+
 Chapter 11 - Muscle Tissue
   * Overview and Classification of Muscle
   * Skeletal Muscle

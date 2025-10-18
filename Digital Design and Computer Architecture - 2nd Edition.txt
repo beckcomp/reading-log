@@ -63,3 +63,8 @@ Chapter 5 - Digital Building Blocks
     5.5.6 Read Only Memory
     5.5.7 Logic Using Memory Arrays
     5.5.8 Memory HDL
+  5.6 Logic Arrays
+    5.6.1 Programmable Logic Array
+    5.6.2 Field Programmable Gate Array
+    5.6.3 Array Implementations*
+  5.7 Summary

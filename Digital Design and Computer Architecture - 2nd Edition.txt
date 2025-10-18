@@ -54,3 +54,12 @@ Chapter 5 - Digital Building Blocks
   5.4 Sequential Building Blocks
     5.4.1 Counters
     5.4.2 Shift Registers
+  5.5 Memory Arrays
+    5.5.1 Overview
+    5.5.2 Dynamic Random Access Memory (DRAM)
+    5.5.3 Static Random Access Memory (SRAM)
+    5.5.4 Area and Delay
+    5.5.5 Register Files
+    5.5.6 Read Only Memory
+    5.5.7 Logic Using Memory Arrays
+    5.5.8 Memory HDL

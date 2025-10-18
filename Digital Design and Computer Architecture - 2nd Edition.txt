@@ -19,3 +19,23 @@ Chapter 3 - Sequential Logic Design
     3.2.6 Resettable Flip-Flop
     3.2.7 Transistor-Level Latch and Flip-Flop Designs*
     3.2.8 Putting It All Together
+  3.3 Synchronous Logic Design
+    3.3.1 Some Problematic Circuits
+    3.3.2 Synchronous Sequential Circuits
+    3.3.3 Synchronous and Asynchronous Circuits
+  3.4 Finite State Machines
+    3.4.1 FSM Design Examples
+    3.4.2 State Encodings
+    3.4.3 Moore and Mealy Machines
+    3.4.4 Factoring State Machines
+    3.4.5 Deriving an FSM from a Schematic
+    3.4.6 FSM Review
+  3.5 Timing of Sequential Logic
+    3.5.1 The Dynamic Discipline
+    3.5.2 System Timing
+    3.5.3 Clock Skew*
+    3.5.4 Metastability
+    3.5.5 Synchronizers
+    3.5.6 Derivation of Resolution Time*
+  3.6 Parallelism
+  3.7 Summary

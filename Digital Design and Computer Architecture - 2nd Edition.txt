@@ -87,3 +87,23 @@ Chapter 5 - Digital Building Blocks
     5.6.2 Field Programmable Gate Array
     5.6.3 Array Implementations*
   5.7 Summary
+
+Chapter 6 - Architecture
+  6.1 Introduction
+  6.2 Assembly Language
+    6.2.1 Instructions
+    6.2.2 Operands: Registers, Memory, and Constants
+  6.3 Machine Language
+    6.3.1 R-Type Instructions
+    6.3.2 I-Type Instructions
+    6.3.3 J-Type Instructions
+    6.3.4 Interpreting Machine Language Code
+    6.3.5 The Power of the Stored Program
+  6.4 Programming
+    6.4.1 Arithmetic/Logical Instructions
+    6.4.2 Branching
+    6.4.3 Conditional Statements
+    6.4.4 Getting Loopy
+    6.4.5 Arrays
+    6.4.6 Function Calls
+  6.5 Addressing Modes

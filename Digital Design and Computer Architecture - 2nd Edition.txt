@@ -107,3 +107,15 @@ Chapter 6 - Architecture
     6.4.5 Arrays
     6.4.6 Function Calls
   6.5 Addressing Modes
+
+Chapter 7 - Microarchitecture
+  7.1 Introduction
+    7.1.1 Architectural State and Instruction Set
+    7.1.2 Design Process
+    7.1.3 MIPS Microarchitectures
+  7.2 Performance Analysis
+  7.3 Single-Cycle Processor
+    7.3.1 Single-Cycle Datapath
+    7.3.2 Single-Cycle Control
+    7.3.3 More Instructions
+    7.3.4 Performance Analysis

@@ -119,3 +119,14 @@ Chapter 7 - Microarchitecture
     7.3.2 Single-Cycle Control
     7.3.3 More Instructions
     7.3.4 Performance Analysis
+  7.4 Multicycle Processor
+    7.4.1 Multicycle Datapath
+    7.4.2 Multicycle Control
+    7.4.3 More Instructions
+    7.4.4 Performance Analysis
+  7.5 Pipelined Processor
+    7.5.1 Pipelined Datapath
+    7.5.2 Pipelined Control
+    7.5.3 Hazards
+    7.5.4 More Instructions
+    7.5.5 Performance Analysis

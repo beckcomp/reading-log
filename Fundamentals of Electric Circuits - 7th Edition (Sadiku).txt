@@ -17,3 +17,10 @@ Chapter 2 - Basic Laws
   2.2 Ohm's Law
   2.3 Nodes, Branches, and Loops
   2.4 Kirchhoff's Laws
+  2.5 Series Resistors and Voltage Division
+  2.6 Parallel Resistors and Current Division
+  2.7 Wye-Delta Transformations
+  2.8 Applications
+    2.8.1 Lighting Systems
+    2.8.2 Design of DC Meters
+  2.9 Summary

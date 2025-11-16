@@ -24,3 +24,15 @@ Chapter 2 - Basic Laws
     2.8.1 Lighting Systems
     2.8.2 Design of DC Meters
   2.9 Summary
+
+Chapter 3 - Methods of Analysis
+  3.1 Introduction
+  3.2 Nodal Analysis
+  3.3 Nodal Analysis with Voltage Sources
+  3.4 Mesh Analysis
+  3.5 Mesh Analysis with Current Sources
+  3.6 Nodal and Mesh Analyses by Inspection
+  3.7 Nodal Versus Mesh Analysis
+  3.8 Circuit Analysis with PSpice
+  3.9 Application: DC Transistor Circuits
+  3.10 Summary

@@ -151,3 +151,23 @@ Chapter 14 - Immune System and Lymphatic Tissues and Organs
     - Spleen
     - Blood Circulation in Spleen
 
+Chapter 15 - Integumentary System
+  * Overview of the Integumentary System
+  * Layers of the Skin
+    - Epidermis
+    - Dermis
+  * Cells of the Epidermis
+    - Keratinocytes
+    - Melanocytes
+    - Langerhans Cells
+    - Merkel's Cells
+  * Structures of Skin
+    - Nerve Supply
+    - Epidermal Skin Appendages
+      - Hair Follicles and Hair
+      - Sebaceous Glands
+      - Sweat Glands
+      - Eccrine Sweat Glands
+      - Apocrine Sweat Glands
+      - Nails
+

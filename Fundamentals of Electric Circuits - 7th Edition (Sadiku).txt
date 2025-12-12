@@ -36,3 +36,19 @@ Chapter 3 - Methods of Analysis
   3.8 Circuit Analysis with PSpice
   3.9 Application: DC Transistor Circuits
   3.10 Summary
+
+Chapter 4 - Circuit Theorems
+  4.1 Introduction
+  4.2 Linearity Property
+  4.3 Superposition
+  4.4 Source Transformation
+  4.5 Thevenin's Theorem
+  4.6 Norton's Theorem
+  4.7 Derivations of Thevenin's and Norton's Theorems
+  4.8 Maximum Power Transfer
+  4.9 Verifying Circuit Theorems with PSpice
+  4.10 Applications
+    4.10.1 Source Modeling
+    4.10.2 Resistance Measurement
+  4.11 Summary
+

@@ -52,3 +52,18 @@ Chapter 4 - Circuit Theorems
     4.10.2 Resistance Measurement
   4.11 Summary
 
+Chapter 5 - Operational Amplifiers
+  5.1 Introduction
+  5.2 Operational Amplifiers
+  5.3 Ideal Op Amp
+  5.4 Inverting Amplifier
+  5.5 Noninverting Amplifier
+  5.6 Summing Amplifier
+  5.7 Difference Amplifier
+  5.8 Cascaded Op Amp Circuits
+  5.9 Op Amp Circuit Analysis with PSpice
+  5.10 Applications
+    5.10.1 Digital-to-Analog Converter
+    5.10.2 Instrumentation Amplifiers
+  5.11 Summary
+

@@ -12,3 +12,26 @@ Chapter 2 - Basic Physics of Semiconductors
     2.3.1 Zener Breakdown
     2.3.2 Avalanche Breakdown
   2.4 Chapter Summary
+
+Chapter 3 - Diode Models and Circuits
+  3.1 Ideal Diode
+    3.1.1 Initial Thoughts
+    3.1.2 Ideal Diode
+    3.1.3 Application Examples
+  3.2 pn Junction as a Diode
+  3.3 Additional Examples
+  3.4 Large-Signal and Small-Signal Operation
+  3.5 Applications of Diodes
+    3.5.1 Half-Wave and Full-Wave Rectifiers
+    3.5.2 Voltage Regulation
+    3.5.3 Limiting Circuits
+    3.5.4 Voltage Doublers
+    3.5.5 Diodes as Level Shifters and Switches
+  3.6 Chapter Summary
+
+Chapter 6 - Physics of MOS Transistors
+  6.1 Structure of MOSFET
+  6.2 Operation of MOSFET
+    6.2.1 Qualitative Analysis
+    6.2.2 Derivation of I-V Characteristics
+

@@ -1,0 +1,49 @@
+Chapter 1 - Regular Languages
+  1.1 Finite Automata
+    * Formal Definition of a Finite Automaton
+    * Examples of Finite Automata
+    * Formal Definition of Computation
+    * Designing Finite Automata
+    * The Regular Operations
+  1.2 Nondeterminism
+    * Formal Definition of a Nondeterministic Finite Automaton
+    * Equivalence of NFAs and DFAs
+    * Closure under the Regular Operations
+  1.3 Regular Expressions
+    * Formal Definition of a Regular Expression
+    * Equivalence with Finite Automata
+  1.4 Nonregular Languages
+    * The Pumping Lemma for Regular Languages
+
+Chapter 2 - Context-Free Languages
+  2.1 Context-Free Grammars
+    * Formal Definition of a Context-Free Grammar
+    * Examples of Context-Free Grammars
+    * Designing Context-Free Grammars
+    * Ambiguity
+    * Chomsky Normal Form
+  2.2 Pushdown Automata
+    * Formal Definition of a Pushdown Automaton
+    * Examples of Pushdown Automata
+    * Equivalence with Context-Free Grammars
+  2.3 Non-Context-Free Languages
+    * The Pumping Lemma for Context-Free Languages
+  2.4 Deterministic Context-Free Languages
+    * Properties of DCFLs
+    * Deterministic Context-Free Grammars
+    * Relationship of DPDAs and DCFGs
+    * Parsing and LR(k) Grammars
+
+Chapter 3 - The Church-Turing Thesis
+  3.1 Turing Machines
+    * Formal Definition of a Turing Machine
+    * Examples of Turing Machines
+  3.2 Variants of Turing Machines
+    * Multitape Turing Machines
+    * Nondeterministic Turing Machines
+    * Enumerators
+    * Equivalence with Other Models
+  3.3 The Definition of Algorithm
+    * Hilbert's Problems
+    * Terminology for Describing Turing Machines
+

@@ -1,0 +1,28 @@
+Chapter 1 - Propositional Logic
+  1.1 Declarative Sentences
+  1.2 Natural Deduction
+    1.2.1 Rules for Natural Deduction
+    1.2.2 Derived Rules
+    1.2.3 Natural Deduction in Summary
+    1.2.4 Provable Equivalence
+    1.2.5 An Aside: Proof by Contradiction
+  1.3 Propositional Logic as a Formal Language
+  1.4 Semantics of Propositional Logic
+    1.4.1 The Meaning of Logical Connectives
+    1.4.2 Mathematical Induction
+    1.4.3 Soundness of Propositional Logic
+    1.4.4 Completeness of Propositional Logic
+
+Chapter 2 - Predicate Logic
+  2.1 The Need for a Richer Language
+  2.2 Predicate Logic as a Formal Language
+    2.2.1 Terms
+    2.2.2 Formulas
+    2.2.3 Free and Bound Variables
+    2.2.4 Substitution
+  2.3 Proof Theory of Predicate Logic
+    2.3.1 Natural Deduction Rules
+    2.3.2 Quantifier Equivalences
+  2.4 Semantics of Predicate Logic
+    2.4.1 Models
+

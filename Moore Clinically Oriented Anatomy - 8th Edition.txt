@@ -456,3 +456,31 @@ Chapter 8 - Head
     - Walls of Cranial Cavity
     - Regions of Head
     - CLINICAL BOX: Cranium
+  * Face and Scalp
+    - Face
+    - Scalp
+    - Muscles of Face and Scalp
+      - Muscles of Scalp, Forehead, and Eyebrows
+      - Muscles of Mouth, Lips, and Cheeks
+      - Muscles of Orbital Opening
+      - Muscles of Nose and Ears
+    - Nerves of Face and Scalp
+      - Cutaneous Nerves of Face and Scalp
+      - Ophthalmic Nerve
+      - Maxillary Nerve
+      - Mandibular Nerve
+      - Nerves of Scalp
+      - Motor Nerves of Face
+      - Facial Nerve
+    - Superficial Vasculature of Face and Scalp
+      - Superficial Arteries of Face
+      - Arteries of Scalp
+      - External Veins of Face
+      - Veins of Scalp
+      - Lymphatic Drainage of Face and Scalp
+    - Surface Anatomy of Face
+    - CLINICAL BOX: Face and Scalp
+  * Cranial Meninges
+  * Brain
+
+  

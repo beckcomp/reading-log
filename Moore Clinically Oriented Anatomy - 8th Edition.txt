@@ -503,5 +503,14 @@ Chapter 8 - Head
       - Veins of Orbit
     - Surface Anatomy of Eye and Lacrimal Apparatus
     - CLINICAL BOX: Orbital Region, Orbit, and Eyeball
-  
+  * Parotid and Temporal Regions, Infratemporal Fossa, and Temporomandibular Joint
+    - Parotid Region
+      - Parotid Gland
+      - Innervation of Parotid Gland and Related Structures
+    - Temporal Region
+    - Infratemporal Fossa
+      - Temporomandibular Joint
+      - Muscles of Mastication
+      - Neurovasculature of Infratemporal Fossa
+    - CLINICAL BOX: Parotid and Temporal Regions, Infratemporal Fossa, and Temporomandibular Joint
 

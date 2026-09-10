@@ -537,4 +537,22 @@ Chapter 8 - Head
       - Submandibular Glands
       - Sublingual Glands
     - CLINICAL BOX: Oral Region
+  * Pterygopalatine Fossa
+    - Pterygopalatine Part of Maxillary Artery
+    - Maxillary Nerve
+    - CLINICAL BOX: Pterygopalatine Fossa
+  * Nose
+    - External Nose
+      - Skeleton of External Nose
+      - Nasal Septum
+    - Nasal Cavities
+      - Boundaries of Nasal Cavities
+      - Features of Nasal Cavities
+    - Vasculature and Innervation of Nose
+    - Paranasal Sinuses
+      - Frontal Sinuses
+      - Ethmoidal Cells
+      - Sphenoidal Sinuses
+      - Maxillary Sinuses
+    - CLINICAL BOX: The Nose
 

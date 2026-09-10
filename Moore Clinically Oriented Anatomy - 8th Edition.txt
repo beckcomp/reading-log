@@ -513,4 +513,28 @@ Chapter 8 - Head
       - Muscles of Mastication
       - Neurovasculature of Infratemporal Fossa
     - CLINICAL BOX: Parotid and Temporal Regions, Infratemporal Fossa, and Temporomandibular Joint
+  * Oral Region
+    - Oral Cavity
+    - Lips, Cheeks, and Gingivae
+      - Lips and Cheeks
+      - Gingivae
+    - Teeth
+      - Parts and Structure of Teeth
+      - Vasculature of Teeth
+      - Innervation of Teeth
+    - Palate
+      - Hard Palate
+      - Soft Palate
+      - Superficial Features of Palate
+      - Muscles of Soft Palate
+      - Vasculature and Innervation of Palate
+    - Tongue
+      - Parts and Surfaces of Tongue
+      - Muscles of Tongue
+      - Innervation of Tongue
+      - Vasculature of Tongue
+    - Salivary Glands
+      - Submandibular Glands
+      - Sublingual Glands
+    - CLINICAL BOX: Oral Region
 

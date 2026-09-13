@@ -569,3 +569,18 @@ Chapter 8 - Head
       - Internal Acoustic Meatus
     - CLINICAL BOX: Ear
 
+Chapter 9 - Neck
+  * Overview
+  * Bones of Neck
+    - Cervical Vertebrae
+    - Hyoid Bone
+    - CLINICAL BOX: Bones of Neck
+  * Fascia of Neck
+    - Cervical Subcutaneous Tissue and Platysma
+      - Platysma
+    - Deep Cervical Fascia
+      - Investing Layer of Deep Cervical Fascia
+      - Pretracheal Layer of Deep Cervical Fascia
+      - Prevertebral Layer of Deep Cervical Fascia
+    - CLINICAL BOX: Cervical Fascia
+

@@ -555,4 +555,17 @@ Chapter 8 - Head
       - Sphenoidal Sinuses
       - Maxillary Sinuses
     - CLINICAL BOX: The Nose
+  * Ear
+    - External Ear
+      - Auricle
+      - External Acoustic Meatus and Tympanic Membrane
+    - Middle Ear
+      - Walls of Tympanic Cavity
+      - Pharyngotympanic Tube
+      - Auditory Ossicles
+    - Internal Ear
+      - Bony Labyrinth
+      - Membranous Labyrinth
+      - Internal Acoustic Meatus
+    - CLINICAL BOX: Ear
 

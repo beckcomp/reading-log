@@ -606,4 +606,17 @@ Chapter 9 - Neck
       - Veins in Root of Neck
       - Nerves in Root of Neck
     - CLINICAL BOX: Deep Structures of Neck
+  * Viscera of Neck
+    - Endocrine Layer of Cervical Viscera
+      - Thyroid Gland
+      - Parathyroid Glands
+    - Respiratory Layer of Cervical Viscera
+      - Larynx
+      - Trachea
+    - Alimentary Layer of Cervical Viscera
+      - Pharynx
+      - Esophagus
+    - Surface Anatomy of Endocrine and Respiratory Layers of Cervical Viscera
+  * Lymphatics of Neck
+    - CLINICAL BOX: Viscera and Lymphatics of Neck
 

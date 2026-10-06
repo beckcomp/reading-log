@@ -291,6 +291,22 @@ Chapter 3 - Upper Limb
       - Innervation of Metacarpal and Interphalangeal Joints
     - CLINICAL BOX: Joints of Upper Limb
 
+Chapter 4 - Thorax
+  * Overview of Thorax
+  * Thoracic Wall
+    - Skeleton of Thoracic Wall
+      - Ribs, Costal Cartilages, and Intercostal Spaces
+      - Thoracic Vertebrae
+      - The Sternun
+    - Thoracic Apertures
+      - Superior Thoracic Aperture
+      - Inferior Thoracic Aperture
+    - Joints of Thoracic Wall
+      - Costovertebral Joints
+      - Sternocostal Joints
+    - Movements of Thoracic Wall
+    - CLINICAL BOX: Thoracic Wall
+
 Chapter 7 - Lower Limb
   * Overview of Lower Limb
   * Development of Lower Limb

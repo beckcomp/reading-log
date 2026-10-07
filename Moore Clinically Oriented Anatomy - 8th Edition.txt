@@ -321,6 +321,15 @@ Chapter 4 - Thorax
       - Nerves of Breast
     - Surface Anatomy of Thoracic Wall
     - CLINICAL BOX: Breasts
+  * Viscera of Thoracic Cavity
+    - Pleurae, Lungs, and Tracheobronchial Tree
+      - Pleurae
+      - Lungs
+      - Tracheobronchial Tree
+      - Vasculature of Lungs and Pleurae
+      - Nerves of Lungs and Pleurae
+      - Surface Anatomy of Pleurae and Lungs
+    - CLINICAL BOX: Pleurae, Lungs, and Tracheobronchial Tree
 
 Chapter 7 - Lower Limb
   * Overview of Lower Limb

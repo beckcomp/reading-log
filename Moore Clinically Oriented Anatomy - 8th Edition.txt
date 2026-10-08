@@ -333,6 +333,12 @@ Chapter 4 - Thorax
     - Overview of Mediastinum
     - Pericardium
     - CLINICAL BOX: Mediastinum Overview and Pericardium
+    - Heart
+      - Right Atrium
+      - Right Ventricle
+      - Left Atrium
+      - Left Ventricle
+      - Semilunar Valves
 
 Chapter 7 - Lower Limb
   * Overview of Lower Limb

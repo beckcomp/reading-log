@@ -339,6 +339,15 @@ Chapter 4 - Thorax
       - Left Atrium
       - Left Ventricle
       - Semilunar Valves
+      - Vasculature of Heart
+      - Stimulating, Conducting, and Regulating Systems of Heart
+    -
+    - Superior Mediastinum and Great Vessels
+      - Thymus
+      - Great Vessels
+      - Nerves in the Superior Mediastinum
+      - Trachea
+      - Esophagus
 
 Chapter 7 - Lower Limb
   * Overview of Lower Limb

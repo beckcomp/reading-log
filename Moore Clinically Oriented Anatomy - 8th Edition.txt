@@ -348,6 +348,16 @@ Chapter 4 - Thorax
       - Nerves in the Superior Mediastinum
       - Trachea
       - Esophagus
+    - Posterior Mediastinum
+      - Thoracic Aorta
+      - Esophagus
+      - Thoracic Duct and Lymphatic Trunks
+      - Vessels and Lymph Nodes of Posterior Mediastinum
+      - Nerves of Posterior Mediastinum
+    - Anterior Mediastinum
+    - Surface Anatomy of Heart and Mediastinal Viscera
+    - Auscultatory Areas
+    - 
 
 Chapter 7 - Lower Limb
   * Overview of Lower Limb

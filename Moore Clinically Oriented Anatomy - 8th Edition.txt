@@ -306,6 +306,58 @@ Chapter 4 - Thorax
       - Sternocostal Joints
     - Movements of Thoracic Wall
     - CLINICAL BOX: Thoracic Wall
+    - Muscles of Thoracic Wall
+    - Fascia of Thoracic Wall
+    - Nerves of Thoracic Wall
+      - Typical Intercostal Nerves
+      - Atypical Intercostal Nerves
+    - Vasculature of Thoracic Wall
+      - Arteries of Thoracic Wall
+      - Veins of Thoracic Wall
+    - CLINICAL BOX: Muscles and Neurovasculature of Thoracic Wall
+    - Breasts
+      - Female Breasts
+      - Vasculature of Breast
+      - Nerves of Breast
+    - Surface Anatomy of Thoracic Wall
+    - CLINICAL BOX: Breasts
+  * Viscera of Thoracic Cavity
+    - Pleurae, Lungs, and Tracheobronchial Tree
+      - Pleurae
+      - Lungs
+      - Tracheobronchial Tree
+      - Vasculature of Lungs and Pleurae
+      - Nerves of Lungs and Pleurae
+      - Surface Anatomy of Pleurae and Lungs
+    - CLINICAL BOX: Pleurae, Lungs, and Tracheobronchial Tree
+    - Overview of Mediastinum
+    - Pericardium
+    - CLINICAL BOX: Mediastinum Overview and Pericardium
+    - Heart
+      - Right Atrium
+      - Right Ventricle
+      - Left Atrium
+      - Left Ventricle
+      - Semilunar Valves
+      - Vasculature of Heart
+      - Stimulating, Conducting, and Regulating Systems of Heart
+    -
+    - Superior Mediastinum and Great Vessels
+      - Thymus
+      - Great Vessels
+      - Nerves in the Superior Mediastinum
+      - Trachea
+      - Esophagus
+    - Posterior Mediastinum
+      - Thoracic Aorta
+      - Esophagus
+      - Thoracic Duct and Lymphatic Trunks
+      - Vessels and Lymph Nodes of Posterior Mediastinum
+      - Nerves of Posterior Mediastinum
+    - Anterior Mediastinum
+    - Surface Anatomy of Heart and Mediastinal Viscera
+    - Auscultatory Areas
+    - 
 
 Chapter 7 - Lower Limb
   * Overview of Lower Limb
